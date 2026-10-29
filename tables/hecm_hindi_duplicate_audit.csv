@@ -1,0 +1,12 @@
+metric,count,description
+total_raw_rows,9357,Original line count in HECM.txt and HECM_Class.txt
+unique_raw_texts,9239,Unique text values before deduplication
+total_duplicate_text_groups,118,Text values occurring > 1 time in raw data
+total_duplicate_rows,236,Total rows belonging to duplicate groups
+duplicate_excess_rows,118,Excess rows from all duplicate texts
+conflicting_text_groups,25,Texts associated with both label 0 and label 1
+conflicting_rows_excluded,50,Total rows excluded due to label conflicts
+rows_after_conflict_exclusion,9307,Dataset size after excluding conflicting groups
+non_conflicting_dup_groups,93,Duplicate text groups with consistent labels
+non_conflicting_excess_rows_removed,93,Redundant identical rows removed
+final_unique_modeling_samples,9214,Final unambiguous modeling samples

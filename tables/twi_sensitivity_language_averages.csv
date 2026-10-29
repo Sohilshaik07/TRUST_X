@@ -1,0 +1,5 @@
+language,balanced_twi,performance_heavy_twi,robustness_heavy_twi,calibration_heavy_twi
+Telugu,0.7223,0.7267,0.7766,0.7498
+Tamil,0.7414,0.7575,0.7831,0.7738
+Malayalam,0.7413,0.685,0.8093,0.7997
+Hindi,0.7507,0.7574,0.7844,0.783

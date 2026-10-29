@@ -1,0 +1,13 @@
+experiment_id,language,model,balanced_twi,performance_heavy_twi,robustness_heavy_twi,calibration_heavy_twi
+telugu_mbert_seed42,telugu,mbert,0.7386,0.7473,0.7908,0.7652
+telugu_indicbert_seed42,telugu,indicbert,0.6927,0.6893,0.7684,0.7248
+tamil_mbert_seed42,tamil,mbert,0.7447,0.7638,0.7878,0.7782
+tamil_indicbert_seed42,tamil,indicbert,0.7347,0.7513,0.7722,0.7698
+tamil_xlmr_seed42,tamil,xlmr,0.7448,0.7575,0.7894,0.7734
+malayalam_indicbert_seed42,malayalam,indicbert,0.7108,0.6477,0.7974,0.7794
+telugu_xlmr_seed42,telugu,xlmr,0.7356,0.7436,0.7707,0.7593
+malayalam_mbert_seed42,malayalam,mbert,0.7132,0.6491,0.7986,0.7795
+malayalam_xlmr_seed42,malayalam,xlmr,0.7998,0.7581,0.8318,0.8403
+hindi_mbert_seed42,hindi,mbert,0.7547,0.7688,0.7923,0.7883
+hindi_indicbert_seed42,hindi,indicbert,0.7242,0.733,0.7621,0.7616
+hindi_xlmr_seed42,hindi,xlmr,0.7733,0.7704,0.7989,0.799

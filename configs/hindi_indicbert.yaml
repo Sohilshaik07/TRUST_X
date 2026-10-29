@@ -1,0 +1,15 @@
+batch_size: 16
+data_dir: Data/processed/hindi
+epochs: 3
+experiment_id: hindi_indicbert_seed42
+gradient_accumulation_steps: 1
+language: hindi
+learning_rate: 2.0e-05
+max_length: 128
+model_key: indicbert
+output_dir: checkpoints/hindi/indicbert
+run_shap: true
+seed: 42
+task: hate_speech
+use_class_weights: true
+weight_decay: 0.01

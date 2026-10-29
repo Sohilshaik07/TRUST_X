@@ -1,0 +1,4 @@
+model,test_accuracy,test_macro_f1,ece,brier,calibration_score,robustness_score,explainability_score,twi
+mBERT,0.8392,0.6976,0.0632,0.119,0.8494,0.9078,0.4965,0.7378
+IndicBERT,0.8008,0.6595,0.0432,0.1404,0.838,0.9026,0.4622,0.7156
+XLM-R,0.8251,0.7312,0.0476,0.1263,0.8499,0.8687,0.6037,0.7634

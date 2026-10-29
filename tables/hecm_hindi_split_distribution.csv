@@ -1,0 +1,5 @@
+split,total_samples,hateful_label_0,hateful_pct,non_hateful_label_1,non_hateful_pct,imbalance_ratio_0_over_1
+full_clean,9214,2792,30.3,6422,69.7,0.4348
+train,6449,1954,30.3,4495,69.7,0.4347
+dev,1382,419,30.32,963,69.68,0.4351
+test,1383,419,30.3,964,69.7,0.4346

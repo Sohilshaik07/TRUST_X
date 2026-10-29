@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Model checkpoints
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+pytorch_model.bin
+
+# Temporary files
+temp/
+temp_*/
+tmp/
+*.tmp
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Trained model checkpoints
+checkpoints/**/best_checkpoint/
+
+# Exclude trained model checkpoints
+checkpoints/**/best_checkpoint/
+
+# Exclude model weight files everywhere
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+pytorch_model.bin

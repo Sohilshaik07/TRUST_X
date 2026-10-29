@@ -1,0 +1,15 @@
+batch_size: 16
+data_dir: Data/processed/telugu
+epochs: 3
+experiment_id: telugu_mbert_seed42
+gradient_accumulation_steps: 1
+language: telugu
+learning_rate: 2.0e-05
+max_length: 128
+model_key: mbert
+output_dir: checkpoints/telugu/mbert
+run_shap: true
+seed: 42
+task: hate_speech
+use_class_weights: false
+weight_decay: 0.01

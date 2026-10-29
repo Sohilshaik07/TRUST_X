@@ -1,0 +1,592 @@
+id,text,label,original_label,language,task,split
+te_dev_00000,Pora pavala,1,hate,telugu,hate_speech,dev
+te_dev_00001,Mana paristhithi yenty ante manam mo kudisipoina parvaledu manalo okadu mathram yedagakudadhu...,1,hate,telugu,hate_speech,dev
+te_dev_00002,దీనికన్నా బాగా పడేవాళ్ళు unnaru వాళ్ళను ఎంకరేజ్ చేయండి,1,hate,telugu,hate_speech,dev
+te_dev_00003,bhanu full overaction Nike antha set kadhuu leee,1,hate,telugu,hate_speech,dev
+te_dev_00004,Samsaram cheyaganey pillalu puttaru sir. Wait for good result,1,hate,telugu,hate_speech,dev
+te_dev_00005,Super Madam dance chala bagavesaru,0,non-hate,telugu,hate_speech,dev
+te_dev_00006,నేను పవన్ కళ్యాణ్ చెప్పిన తర్వాత మీ సినిమా చూశాను చాలా బాగుంది,0,non-hate,telugu,hate_speech,dev
+te_dev_00007,Pora kukka,1,hate,telugu,hate_speech,dev
+te_dev_00008,దిలీప్ చందర్ సార్ గారు మిరు ప్రతివిషయాన్ని వక్రీకరించి చెప్తున్నారు మీరు చెప్తున్నా మాటల్లో కొన్ని అబద్దాలు కొట్టొచ్చినట్టు కనపడుతున్నాయి,1,hate,telugu,hate_speech,dev
+te_dev_00009,"చాలా చక్కగా ,తికమక లేకుండా నవల మీద, సినిమా మీద ఆసక్తి పెరిగేలా వివరించారు.ధన్యవాదాలు.",0,non-hate,telugu,hate_speech,dev
+te_dev_00010,నిజమైన పవన్ కల్యాన్ అబిమానికే తెలుస్తుంది ఆ ఆనందం,0,non-hate,telugu,hate_speech,dev
+te_dev_00011,"Andarni encounter chesi padeyandi sir ,file close cheseyandi matter over",1,hate,telugu,hate_speech,dev
+te_dev_00012,Nv chala mandhi ki inspirational eppudu,0,non-hate,telugu,hate_speech,dev
+te_dev_00013,yudi naavinnapamu matrame bhavishyatlo biddalu badhalu padakoodadane vudyesamuto navinnapamu.tappayite xaminchamani vinnapam,0,non-hate,telugu,hate_speech,dev
+te_dev_00014,raja singh ki em pani pata ledha eppudu langa kathalu dengutharu paata nachaka potey gudda moskoni dengey ekkdada nunchi,1,hate,telugu,hate_speech,dev
+te_dev_00015,"Nve adiginanduku vadu feel avvadu ,vadu icchina answering nvu feel avuthavv",0,non-hate,telugu,hate_speech,dev
+te_dev_00016,"Dheeni Dhrustilo idhi okkate Pedhha sincere Politicion ,migatha vallu time pass chesevallu..asal aa Body Language endhi",1,hate,telugu,hate_speech,dev
+te_dev_00017,ఈ కాలం లో ఎక్కడా కనిపించని వోణీలు,0,non-hate,telugu,hate_speech,dev
+te_dev_00018,నువ్వు మా చెల్లివైతే ఇంకా సంతోషించేవాడిని,0,non-hate,telugu,hate_speech,dev
+te_dev_00019,Nuvuu edhava sir edhi naa,1,hate,telugu,hate_speech,dev
+te_dev_00020,Correct.... Army green ani buildup ichi... Amoled green vesukunnaru...,1,hate,telugu,hate_speech,dev
+te_dev_00021,NUV MIA KHALIFA NA SARAYU pedda figure needhi,1,hate,telugu,hate_speech,dev
+te_dev_00022,భైయ ఇలాంటి వాడిని 5 నిమిషాలు తటుకొవడం కష్టం కాని నువ్వు 45నిమిషాలు video చేసావు నువ్వు great,0,non-hate,telugu,hate_speech,dev
+te_dev_00023,కామం తో ఏమి చేసిన ఈ కాలం లో super,0,non-hate,telugu,hate_speech,dev
+te_dev_00024,RGV తండ్రికి కండోమ్ వాడుట తెలువదో లేక అప్పుడు కండోమ్ లేదో అందుకే ఇ నా .............. పుట్టాడు,1,hate,telugu,hate_speech,dev
+te_dev_00025,arey shankar ga nvvu kcr sanka nakaku ra,0,non-hate,telugu,hate_speech,dev
+te_dev_00026,ఈ పాట అంటే ఎంతమందికి ఇష్టం,0,non-hate,telugu,hate_speech,dev
+te_dev_00027,pk inka ka pauk ap lo jokers,1,hate,telugu,hate_speech,dev
+te_dev_00028,Mallanna fighting for every thing which is relevant to trurth,0,non-hate,telugu,hate_speech,dev
+te_dev_00029,​okadaniki dhikku ledhu veddi mokana 3 anta aha aha,1,hate,telugu,hate_speech,dev
+te_dev_00030,"Veedoka Sankara jaati Santanam, malli Veedu matladdam....",1,hate,telugu,hate_speech,dev
+te_dev_00031,అందరికీ అర్థమయ్యే భాషలో చాలా బాగా మాట్లాడారు సర్....,0,non-hate,telugu,hate_speech,dev
+te_dev_00032,E over action voddu ra,1,hate,telugu,hate_speech,dev
+te_dev_00033,ఈ సినిమా చాలా చాలా చాలా బాగుంది అన్నా వాళ్లు ఒక లైక్ వేసుకోండి,0,non-hate,telugu,hate_speech,dev
+te_dev_00034,"దెయ్యాలు కనిపిస్తే ఎవరైనా దాడుసుకు0టారు .. ఆ రావటం కూడా చూడు ఎలా వంచ్చాడో , అరుంధతి సినిమాలో పశుపతి లాగా",0,non-hate,telugu,hate_speech,dev
+te_dev_00035,Kcr great అందుకేప్రదానిని వద్దన్నాడు,0,non-hate,telugu,hate_speech,dev
+te_dev_00036,లంజాకొడుకులు లంజముండల జోకులా ఇవి నా కొడకల్లారా,1,hate,telugu,hate_speech,dev
+te_dev_00037,ఫోటో కోసం పక్కకి వెళ్తే లాగి కొట్టె హీరో లు mla లు ఉన్నారు అలాంటి వాళ్ళు మా దేవుడు ని చుడండి ఒకసారి,0,non-hate,telugu,hate_speech,dev
+te_dev_00038,రాధాకృష్ణ గారు మీరు ప్రపంచంలో అందరినీ విమర్శిస్తారు అందరి తప్పులు కనపడతాయి ఒక్క చంద్రాల సారు తప్ప,0,non-hate,telugu,hate_speech,dev
+te_dev_00039,Mari aa sangathi thelisi antha madham yendhukura niku.... Vaaru garu antunnaav....gnanodhayamyndhi koddhiga....,1,hate,telugu,hate_speech,dev
+te_dev_00040,Thu vedu mokam tagaletta,1,hate,telugu,hate_speech,dev
+te_dev_00041,Late iena parlaydhu movie mamuluga vundakudadhu movie,0,non-hate,telugu,hate_speech,dev
+te_dev_00042,జగనన్న పేద ప్రజలకి కంచములు అన్ని రకాలు వంటకాలు వడ్డించి తినండి అని పళ్లెంలో పెట్టి పేద ప్రజలు అందిస్తుంటే అది పదివేల కు నచ్చట్లేదు అని ఎక్కడ మరిచిపోతారు అని చెప్పి పనికిమాలిన మాటలు చెప్పి జనములోకి వస్తున్నారు వీళ్ళకి జగన్ అన్నకి జగమంత కుటుంబం అని వీళ్ళకి కనిపించట్లేదు వీళ్లకు తోడు చిన్న పిల్లలు మైండ్ మెచ్యూర్ అవ్వని పిల్లలు ఈ పార్టీలో తిరిగి ఆ భవి ష్యత్తుని భవిష్యత్తు పాడు,0,non-hate,telugu,hate_speech,dev
+te_dev_00043,Motham cinema podaniki ne over action matala Valle kondanna,1,hate,telugu,hate_speech,dev
+te_dev_00044,​4 lakh crore apu cheshadu yekada poyayi sigu leni lanja,1,hate,telugu,hate_speech,dev
+te_dev_00045,Reyyy houleee chaduvu meedha jokulu coment cheyyakuuu... .. Daridrudaaa,1,hate,telugu,hate_speech,dev
+te_dev_00046,Ra Ne aka chaputho dangu..tha lan.a na kodaka,1,hate,telugu,hate_speech,dev
+te_dev_00047,సింహం నిద్ర లేచింది ఒక్కొక్కడికి ఒక్కొక్కడికి జోలపాడలేవు,0,non-hate,telugu,hate_speech,dev
+te_dev_00048,తనకు వర్తించే మాటలన్నీ తన నోటిద్వారానే పలికిన గొప్ప వ్యక్తి.,0,non-hate,telugu,hate_speech,dev
+te_dev_00049,malla anna niku Picchi kani lesinndara sulliga,1,hate,telugu,hate_speech,dev
+te_dev_00050,kamam thagginchuko ra,1,hate,telugu,hate_speech,dev
+te_dev_00051,Eippudu nuvvu yenta chesina janallaki vellina niku minus,1,hate,telugu,hate_speech,dev
+te_dev_00052,నీకు మందు కావాలా బీరు కావాలా నీకు పార్టీ ఎందుకు రాజకీయాలు పనికిరలేరు మాటలు నేర్చుకుంటే బాగుంటుంది,1,hate,telugu,hate_speech,dev
+te_dev_00053,అరేయ్! అది మాకెందుకు చూపిస్తున్నవ్ రా ?,1,hate,telugu,hate_speech,dev
+te_dev_00054,"శభాష్, కొడాలి నాని కి బాగా గడ్డి పెట్టావు.",1,hate,telugu,hate_speech,dev
+te_dev_00055,Telangana gujju gulam kadu,1,hate,telugu,hate_speech,dev
+te_dev_00056,నీ ఇంటర్వ్యూ అన్నిటిలో నాకు నచ్చిన ఇంటర్వ్యూ ఇది ఒక్కటే అన్న,0,non-hate,telugu,hate_speech,dev
+te_dev_00057,RGV శిష్యులు like హియర్,0,non-hate,telugu,hate_speech,dev
+te_dev_00058,ఇలాంటి విడియెలు చేసి మగాళ్ళను రెచ్చగొట్టే స్తున్నారు,1,hate,telugu,hate_speech,dev
+te_dev_00059,Cinima vallu mottam e episode chusi aena buddi techukondi tickets rates vishayam lo,1,hate,telugu,hate_speech,dev
+te_dev_00060,ఈ పాటని నేను విన్నంతగా ఎవరు వినలేదు ఏమో అనే అంతగా విన్నాను ️,0,non-hate,telugu,hate_speech,dev
+te_dev_00061,ఆ బైక్ వాడిని ఉరి శిక్ష వేయాలి,1,hate,telugu,hate_speech,dev
+te_dev_00062,Enti Puri nuvvu entha knowledge gain chestavu.,0,non-hate,telugu,hate_speech,dev
+te_dev_00063,"రోజా భాష వల్గర్ భాష,",1,hate,telugu,hate_speech,dev
+te_dev_00064,నమస్కారానికి ప్రతినమస్కారం సంస్కారం,0,non-hate,telugu,hate_speech,dev
+te_dev_00065,చీ ఫో మెగా ఫ్యామలీకి పారువ్ తీయడానికి పుటవ్ అని నా అభిప్రాయం,1,hate,telugu,hate_speech,dev
+te_dev_00066,Nenu chusina all speech lo ekkuva sarlu chusanu,0,non-hate,telugu,hate_speech,dev
+te_dev_00067,Asalu nuvu kothavallani baga support chestavu anna ni movies baga adali,0,non-hate,telugu,hate_speech,dev
+te_dev_00068,"ఆంధ్రప్రదేశ్ కొండలు, గుట్టలు కబ్జా మాఫియా డాన్ జగ్గు భాయ్",1,hate,telugu,hate_speech,dev
+te_dev_00069,దిమ్మ దిరిగింది సినిమా చూసి..! సూపర్ అంటే సూపర్ 2022 లో best మూవీ,0,non-hate,telugu,hate_speech,dev
+te_dev_00070,"Jagan KD No.1 behavior is like Thuglaq , after some time , Jagan KD No 1 will make 30 Capitals in AP. Jagan will ask Modi to make 4 Capitals for INDIA, East ,West ,North & South Capitals.",0,non-hate,telugu,hate_speech,dev
+te_dev_00071,Antha navvem raaledhu in fact chiraaku vachindi,1,hate,telugu,hate_speech,dev
+te_dev_00072,Ilanti avamanalu chiru ni megastar ga nilabettai.. He is our inspiration.. Love you chiru..,0,non-hate,telugu,hate_speech,dev
+te_dev_00073,Paramboku ias officers ni vetiki kcr Jagan tesku vachi AP Telangana lo pedtaru,1,hate,telugu,hate_speech,dev
+te_dev_00074,"Janame kurcho pettaru, mimmalni tharimi kottaru",1,hate,telugu,hate_speech,dev
+te_dev_00075,Mike Tyson tho Puri tho cheyadam vijay luck,0,non-hate,telugu,hate_speech,dev
+te_dev_00076,నిజానికి ప్రజల కోసం పోరాడుతున్న ఏకైక నాయకుడు రేవంత్ రెడ్డి గారు,0,non-hate,telugu,hate_speech,dev
+te_dev_00077,Cinemalo comedy kante edi picha comedy navvi navvi kadupu noppi vachindi really supper video supper interview elantivi Inka cheyandiiiiii all the best,0,non-hate,telugu,hate_speech,dev
+te_dev_00078,"వీడు కాలేజీ రన్ చేస్తున్నాడు అంటే ఎలా నమ్మాలి,వీడే గిట్లుంటే వీని కాలేజీ,లెక్చరర్స్,పిల్లలు అయ్యో దేవుడా",0,non-hate,telugu,hate_speech,dev
+te_dev_00079,Nu rgv tho denginchukoo,1,hate,telugu,hate_speech,dev
+te_dev_00080,తులసి మొక్క సార్ పవన్ కళ్యాణ్ గారు,0,non-hate,telugu,hate_speech,dev
+te_dev_00081,"Anta manchi job chestu govt ki tala vanchi bratakadaniki siggundali,",1,hate,telugu,hate_speech,dev
+te_dev_00082,asla kl rahul peddha bogh na koduku adatham radhu em radhu,1,hate,telugu,hate_speech,dev
+te_dev_00083,Chempa pagilddemo,1,hate,telugu,hate_speech,dev
+te_dev_00084,రోజా నా ముందుకి వచ్చి చూపించు నీ మిడిల్ ఫింగర్,1,hate,telugu,hate_speech,dev
+te_dev_00085,అంతరించి పోతున్న ఆరోగ్యావంతమైన హాస్యాన్ని తట్టి లేపిన సాత్విక్....,0,non-hate,telugu,hate_speech,dev
+te_dev_00086,Niyamtruthva leaders time konni rojule.,0,non-hate,telugu,hate_speech,dev
+te_dev_00087,లుంగీ బాబా ఆశీర్వాదం,1,hate,telugu,hate_speech,dev
+te_dev_00088,Chillara Vedhavalu ruling and ruined the State. Andhrulu andhuly enjoying for their overenthusiastic attitude. Sani dapurinchina Rashtram,1,hate,telugu,hate_speech,dev
+te_dev_00089,Ycp vunnatha varaku Andhrapradesh paristhi enka diga jaaripotaadi.... Vaalu leaders kaadu maha vedava lu... Okarini minchina varu okaru,1,hate,telugu,hate_speech,dev
+te_dev_00090,Neelanti vallu valla nijame ayina devunuki avamanam jarukutundhi,1,hate,telugu,hate_speech,dev
+te_dev_00091,మన తెలంగాణలో రాజకీయ నాయకుల జీవితాలు తప్ప ఎవరి జీవితాలు బాగుపడలే.,0,non-hate,telugu,hate_speech,dev
+te_dev_00092,Rgv tho vaka interview plan chesthunava nuvu kuda,0,non-hate,telugu,hate_speech,dev
+te_dev_00093,నీ బతుకు ఏంటి నువ్వు ఏం పనులు చేస్తావ్,1,hate,telugu,hate_speech,dev
+te_dev_00094,​gayathri medam super cheppinav good,0,non-hate,telugu,hate_speech,dev
+te_dev_00095,గుండెల పైన కాదు గుండె లోపల వున్నారు సర్ మీరు,0,non-hate,telugu,hate_speech,dev
+te_dev_00096,"Avasaram aite shaving kooda chestaaru, prabuthyodoyogulu adi vaari istam.",0,non-hate,telugu,hate_speech,dev
+te_dev_00097,ఇలాంటి జీవిత సత్యాలని అత్త లు చూసి కొడలని స్వేచ్చగా బతకనిస్తే బాగుండు మేము కూడా హ్యాపీ బతుకుతం కదా,0,non-hate,telugu,hate_speech,dev
+te_dev_00098,ee manishi nirupinchadhu thanu andari entarin cheyaladhu emi bothulu vadakundha,0,non-hate,telugu,hate_speech,dev
+te_dev_00099,Ninnu dengestanu,1,hate,telugu,hate_speech,dev
+te_dev_00100,Muslims hindu devullanu entha thittina parledhu... Kaani hinduvulu Mee devudini thidithe thappenti,0,non-hate,telugu,hate_speech,dev
+te_dev_00101,నితిన్ . కృష్ణ స్టెప్పులు వేస్తున్నాడు కదా,0,non-hate,telugu,hate_speech,dev
+te_dev_00102,డ్యూటీ లో ఉండి ఒక అబ్బాయి అలా చేస్తే వాడు జాబు తీసేస్తారు అక్కడ అమ్మాయి కాబట్టి ఏమీ అనడం లేదు,1,hate,telugu,hate_speech,dev
+te_dev_00103,ఎవడ్రా ఎవడ్రా వీడు పేకాట క్లబ్బులు నడిపించేవాడు,1,hate,telugu,hate_speech,dev
+te_dev_00104,Rey first education health free ivvu racountry m cheddam anukuntunnav ra telangana katham chesina,0,non-hate,telugu,hate_speech,dev
+te_dev_00105,"సార్ నాదెండ్ల మనోహర్ గారు, మీరు ఎప్పటికి ప్రాణం ఉన్నంత వరకు పవన్ కళ్యాణ్ గారితో వుండండి",0,non-hate,telugu,hate_speech,dev
+te_dev_00106,అందరి మంచి vaalalo oka yadava ఉన్నాడు?? కనుక్కోండి చూద్దాం......,1,hate,telugu,hate_speech,dev
+te_dev_00107,తు.. మీబతుకులు చెడ మీవాళ్లు చూస్తే పరువు మిమల్ని ఎ డారిలో వదిలేయాలి అ పుడూ బుద్ది వస్తుంది,1,hate,telugu,hate_speech,dev
+te_dev_00108,"తెలంగాణ వచ్చాక , పేదల బ్రతుకులు మారుతాయనుకుంటే ,MLA జీవితాలు మారాయి ,ప్రతి MLA కి వందల ఎకరాల భూములు అందులో FARM హౌస్ లు.",0,non-hate,telugu,hate_speech,dev
+te_dev_00109,ఖచ్చితంగా అంతే నువ్వు రాజశేఖర్ రెడ్డి కలసి రామోజీ నీ ఆర్థికంగా దెబ్బతీసే ప్లాన్ వేశారు,1,hate,telugu,hate_speech,dev
+te_dev_00110,Adhi flatform kaadhu platform,1,hate,telugu,hate_speech,dev
+te_dev_00111,""" MAA"" president ga gelipiste yedo peekutanu annadu yemi peekaadu ...yedyna cheyalante manchi manasu vundali megastar chesinavi chudandi ..apdbaandhavudu ..andarivadu..annayya ..jai chiranjeevi..andariki mere """" GOD FATHER """"",1,hate,telugu,hate_speech,dev
+te_dev_00112,Veediki inka pani em ledu anukunta bokkalo choreography,1,hate,telugu,hate_speech,dev
+te_dev_00113,Vadu em matladuthunnado eanna artham aithe. Kanisam telugu translator ni pettukovachuga. Telugu bashaki respect ivvaru BJP vallu,1,hate,telugu,hate_speech,dev
+te_dev_00114,సంస్థలు అమ్మినవ,1,hate,telugu,hate_speech,dev
+te_dev_00115,prophet mohummad oka 9 years ammai dengadu,1,hate,telugu,hate_speech,dev
+te_dev_00116,MA charan annayya baghunnadhu love you dad,0,non-hate,telugu,hate_speech,dev
+te_dev_00117,గుద్దు గుద్దు మామిడి,1,hate,telugu,hate_speech,dev
+te_dev_00118,"blockbuster hit aindhi movie, nikhil saab acting excellent, bollywood lo already dhummu leputhondhi",0,non-hate,telugu,hate_speech,dev
+te_dev_00119,first move doilogs api 3 wife laki nayam chesi tavata nethulu. cheppu babu partner ok,1,hate,telugu,hate_speech,dev
+te_dev_00120,వీడికి ఎక్కడ ఏ మాట్లాడాలో తెలిస్తే ఈ పాటికి ఎమ్మెల్యే అయ్యేవాడు... పాపం బ్రాహ్మణి వీడిని ఎలా భరిస్తుందో ఏంటో,1,hate,telugu,hate_speech,dev
+te_dev_00121,"బండ్ల గణేష్ గారు బాగా దింపారు సార్,,,, అప్పుడప్పుడు వచ్చి దింపండి కొంచెం వారికి వారిలో నోరు పారేసుకోవడం లాంటివి తగ్గుతాయి",0,non-hate,telugu,hate_speech,dev
+te_dev_00122,sampu ravali palana marali,1,hate,telugu,hate_speech,dev
+te_dev_00123,Ee Rashmi ki roju rojuki dhebbalu gattigaane gudhuthunnaru,1,hate,telugu,hate_speech,dev
+te_dev_00124,మరి నువ్వు కాంగ్రెస్ నుండి వచ్చి ycp అని పెట్టుకున్నావుగా,1,hate,telugu,hate_speech,dev
+te_dev_00125,మొత్తం చూసా నిజాయతీ గా వున్నాయి ప్రశ్నలు జవాబులు..సూపర్ బై రెడ్డి సిద్దార్థ్ రెడ్డి,0,non-hate,telugu,hate_speech,dev
+te_dev_00126,Ashu కాళ్ళు నాకినావ్.ఈ అమ్మాయ్ నీ ఎక్కడ నాకీనావ్ స్వామి.తొడల మీదే దృష్టి ఎక్కువ ఉంది,1,hate,telugu,hate_speech,dev
+te_dev_00127,అడగాలే కానీ ఏదైనా ఇచ్చే అన్నయ్య అవుతా.... లైన్ ఎంతమందికి ఇష్టం,0,non-hate,telugu,hate_speech,dev
+te_dev_00128,Deenni chusina prati sari naku penta kurchunna feeling vastandi,1,hate,telugu,hate_speech,dev
+te_dev_00129,One more flop hero part of Nepotism Gang,1,hate,telugu,hate_speech,dev
+te_dev_00130,Mottanaki neeku correct mogudu badaleswari ya,1,hate,telugu,hate_speech,dev
+te_dev_00131,Ni jobi lo nundi oka rupai evariki ichinatlu a media lo chudaledhu sir. Pawan thana cinema dabbulu pedhavallaki pancharu,0,non-hate,telugu,hate_speech,dev
+te_dev_00132,evadu gelichina mana brathukulu maravu,1,hate,telugu,hate_speech,dev
+te_dev_00133,Kallu kakulu ethukoni poayayi...JaganBros,1,hate,telugu,hate_speech,dev
+te_dev_00134,rk ki sugar ekkuva uncha apuko pakanna vadidhi cheppadhi vinnu,1,hate,telugu,hate_speech,dev
+te_dev_00135,Pawan Kalyan gaari range ki thaga heroes leru,0,non-hate,telugu,hate_speech,dev
+te_dev_00136,నువ్వొక్కడివే మి ఫ్యామిలీ లో అందరితో కలిసిపోయే గుణం కలిగినవారు brother,0,non-hate,telugu,hate_speech,dev
+te_dev_00137,Komatreddy Garu Telangana kosam Padavini rajinama chesi Niraahaara deeksha chesina Leadrs lo okkaru...Every one respects him,0,non-hate,telugu,hate_speech,dev
+te_dev_00138,Number cheppakunda recharge super ga chesav,0,non-hate,telugu,hate_speech,dev
+te_dev_00139,"IPC లో ఉన్న చట్టాలను , రూలింగ్ లో ఉన్న ప్రభుత్వ లకు అనుగుణంగా మరుస్తర...?",1,hate,telugu,hate_speech,dev
+te_dev_00140,Pakkaki dengey annadu,1,hate,telugu,hate_speech,dev
+te_dev_00141,పాపం అతను ఒక ఉద్యోగి అతను సాక్షి దినపత్రిక ఓనర్ కాదు.. అతన్ని పట్టుకొని ఎందుకురా నీకు,0,non-hate,telugu,hate_speech,dev
+te_dev_00142,Self dabba yekkuva indhi Nagababu nevu ne bussu lu thoo,1,hate,telugu,hate_speech,dev
+te_dev_00143,ముందు రాజా సింగ్ ను కాపాడండి అప్పుడే మీ పార్టీపై ప్రజల్లో నమ్మకం ఏర్పడుతుంది,0,non-hate,telugu,hate_speech,dev
+te_dev_00144,",waste interview vunnappudu oka maata lenappudu okamata",1,hate,telugu,hate_speech,dev
+te_dev_00145,Orey miru chese అభివృద్ధి ఏమైనా ఉన్నాయా ......భూతులు తిట్టడం తప్ప,1,hate,telugu,hate_speech,dev
+te_dev_00146,guddha pagaladhenali lonjakodikini,1,hate,telugu,hate_speech,dev
+te_dev_00147,100 cr cheralante 500 cr petti movie thiyyali,0,non-hate,telugu,hate_speech,dev
+te_dev_00148,Daniki mekaup mida una sradda abiruddi meda ledayi,1,hate,telugu,hate_speech,dev
+te_dev_00149,ycp paytm batch vachhindi,1,hate,telugu,hate_speech,dev
+te_dev_00150,జై కోమటిరెడ్డి రాజగోపాల్ రెడ్డి,0,non-hate,telugu,hate_speech,dev
+te_dev_00151,రాజు గారు ఆమంచి రోజు కోసం ఎదురు చూస్తున్న సార్,0,non-hate,telugu,hate_speech,dev
+te_dev_00152,Shekhar gadu endi na ninnu pilchedi..,1,hate,telugu,hate_speech,dev
+te_dev_00153,Upendra cinema lo hero character RGV Real Character Same to same,0,non-hate,telugu,hate_speech,dev
+te_dev_00154,మూవీ మామూలుగా తీయలేదు,0,non-hate,telugu,hate_speech,dev
+te_dev_00155,Suni anna comedy na mazaka,0,non-hate,telugu,hate_speech,dev
+te_dev_00156,ne okkadiki nyayam jarigindi kaabatti ysr neku devudu nuvu o pathi wrathavi,1,hate,telugu,hate_speech,dev
+te_dev_00157,Chala baga cheparu . nagababu sir help chesena chepukoru .meru brothers kosam baga cheparu,0,non-hate,telugu,hate_speech,dev
+te_dev_00158,"ఘడ్డగా మరీ మనావర్ గానికి కూడా చెప్పు హిందూ దేవుళ్ళ పైన జోకులు చేయొద్దని, మరి వాని షో కు పర్మిషన్ ఇవ్వకుంటే ఇవన్నీ కాకుండె కదా",0,non-hate,telugu,hate_speech,dev
+te_dev_00159,ఒక రాణి ఎవరు ఎత్తండి ఆమె రాజ్యం ఒక సైనికుడి కోసం ఒక సైనికుడు ఎవరు త్యాగం చేస్తారు అతని జీవితం మరియు ప్రేమ కోసం అతని దేశం,0,non-hate,telugu,hate_speech,dev
+te_dev_00160,jagan gadu pedda yedava waste gadu ysr parvu dengathaduu,1,hate,telugu,hate_speech,dev
+te_dev_00161,Nuvvu nijamgaa nippu ....the voice of truth anipinchaav thammi,0,non-hate,telugu,hate_speech,dev
+te_dev_00162,0 pellillu chesukoni padimandini kanakoodadu.janabha yimka perigite yimti stalalu chalavu,0,non-hate,telugu,hate_speech,dev
+te_dev_00163,ఇ సినిమా మంచి విజయాన్ని సాధించాలి అని మనస్పూర్తిగా కోరుకుంటున్న,0,non-hate,telugu,hate_speech,dev
+te_dev_00164,Malla reddy garu meru ap ni kindaparicharu talangana lo vantana andra pradesh prajalu 100 satam vnaru gutupetukondi noru jararu meku ok vesayamtelusa cm kcr ktr vizayanagaram bedani telusa chutu pakala andra valuvnaru megastar chiranjeevi anr ntr valadi kuda andra pradesh jagrata Malla reddy ki dolaterustru jai andra jai telangana,0,non-hate,telugu,hate_speech,dev
+te_dev_00165,Babu aambotu ramubabu garu maru matladevi enti ainaa meekanna unmadulu evarunnaru netho padhi mandi daka untaru malli chupinchu antaru enti,1,hate,telugu,hate_speech,dev
+te_dev_00166,"Anna assalu yevvaru nuvvu , different ga try chesav famous iepoyav ,, Nuv Super Bro,,",0,non-hate,telugu,hate_speech,dev
+te_dev_00167,ఇష్టం లేని జాబ్ చేస్తునట్టు ఉంది ప్రభాస్ ఫేస్,1,hate,telugu,hate_speech,dev
+te_dev_00168,karan johar asla modda levadu anta andukey ammaila mataladuthaane vunatru,1,hate,telugu,hate_speech,dev
+te_dev_00169,Nuvvu pedathav ani anukuna darling,0,non-hate,telugu,hate_speech,dev
+te_dev_00170,Expresion em vundavu... Anntiki same expressions,0,non-hate,telugu,hate_speech,dev
+te_dev_00171,Ayithe life politician kavali ra Babu.,0,non-hate,telugu,hate_speech,dev
+te_dev_00172,Manu garu meru involve avvakandi chala chiraku ga vuntundhi,1,hate,telugu,hate_speech,dev
+te_dev_00173,Car top medhega kurchuni vachindhi mee araganta auntymedha kurchuni kaadhu ga me fans tega feel aypothu support chestnaaru manchi aatagaadivey,1,hate,telugu,hate_speech,dev
+te_dev_00174,Mouli anna content vere level,0,non-hate,telugu,hate_speech,dev
+te_dev_00175,Nuvvu nee fake muchatlu,1,hate,telugu,hate_speech,dev
+te_dev_00176,"తెలంగాణ ఉద్యమ గీతాల నుండి, మాస్ గీతాల మీదికి రూట్ మార్చిన మంగ్లీ",0,non-hate,telugu,hate_speech,dev
+te_dev_00177,One and only Mega star .....Potthi leyru....Raleyru,0,non-hate,telugu,hate_speech,dev
+te_dev_00178,శుక్రవారం శుక్రవారం స్టేషన్ కి వచ్చి సంతకం పెట్టు,0,non-hate,telugu,hate_speech,dev
+te_dev_00179,Sadhuvu rakapothey kanisam mimic cheskuni edho oka railway station lo work cheyyochu,1,hate,telugu,hate_speech,dev
+te_dev_00180,చంటి పిల్లోడు మాట్లాడితే ఒక తండ్రి ఎలా మురిసిపోతాడో అలా ఉంది. చిరు పరిస్థితి,0,non-hate,telugu,hate_speech,dev
+te_dev_00181,అన్న ఆ తాతకి మంచి నటుడు మన జూనియర్ ఎన్టీఆర్ లోనే కనిపించినాడు మన జేజినానికి తగ్గ మనవడివి నువ్వేనా,0,non-hate,telugu,hate_speech,dev
+te_dev_00182,Traffic police pikthunara 2019 nundi number plate petkokunda TR number tho untey,1,hate,telugu,hate_speech,dev
+te_dev_00183,Mi vamaham mohanbabu vamaham tarvathe ra sollu ga,1,hate,telugu,hate_speech,dev
+te_dev_00184,Trs vallu esthalera dabbulu ra sale,0,non-hate,telugu,hate_speech,dev
+te_dev_00185,Moddaguduv,1,hate,telugu,hate_speech,dev
+te_dev_00186,Seemasimham ante ila undali great MLA gaaru Dharmavaram prajalu adhrushtavanthulu.,0,non-hate,telugu,hate_speech,dev
+te_dev_00187,Me knowledge ku salute sir me lanti vallu ilantivi appudappudu media mundi cheppandi,0,non-hate,telugu,hate_speech,dev
+te_dev_00188,Abhaa yenni rojulu ayyindhi Ilaa chosi idharini,0,non-hate,telugu,hate_speech,dev
+te_dev_00189,అవి తొడల మెట్రో పిల్లర్ల అంతున్నాయి,1,hate,telugu,hate_speech,dev
+te_dev_00190,ఏ జన్మలో ఏం పాపం చేసారో..చిరంజీవి గారు ఇలాంటి వారికి జన్మనిచ్చారు..,1,hate,telugu,hate_speech,dev
+te_dev_00191,"BJP anti hindu...... Kotha party power loki ravali....... congress,bsp,sp,tmc,aap....see..see???? new Start-up is waiting????",0,non-hate,telugu,hate_speech,dev
+te_dev_00192,Idi Edo reel kabhatti sari poindhi lekha pothe aadhi anna deenikhi kuda eadoka setair veseavadu Mee midha,0,non-hate,telugu,hate_speech,dev
+te_dev_00193,Jagan dobbindi kanapadada neeku atineetimantuda,1,hate,telugu,hate_speech,dev
+te_dev_00194,ఈ ప్రోమో కోసం ఎంతమంది ఎదురుచూస్తున్నారు,0,non-hate,telugu,hate_speech,dev
+te_dev_00195,Fake luchha news ra jaffa,1,hate,telugu,hate_speech,dev
+te_dev_00196,అక్క నీ పాట ప్రతి ఒక్కటి అదిరిపోతుంది,0,non-hate,telugu,hate_speech,dev
+te_dev_00197,"బయ్య,,,Camera man కొంచెం సైడ్ nundi జూమ్ చెయ్ ఒకసారి ,,,,,camere man ki oka ఓ వేసుకొండి",0,non-hate,telugu,hate_speech,dev
+te_dev_00198,Kcpd men's kutha chnpi paddengutha,1,hate,telugu,hate_speech,dev
+te_dev_00199,ma ntr anna medhey memes chesthava ninnu origikichi dengutha ee post delete cheyakunte,1,hate,telugu,hate_speech,dev
+te_dev_00200,"కెసిఆర్ గారు ఎంతగా అసహనంతో ఉన్నారో తన మాటల వల్ల తెలుస్తుంది. నిజం చెప్పాలంటే, ఉన్న చిన్న జీవితంలో హాయిగా జీవించిన వారిదే అదృష్టపు జన్మ.",0,non-hate,telugu,hate_speech,dev
+te_dev_00201,Neevalla eekamukka kuda avvadu Pavan Babu velli shootings chesuko...vellu,0,non-hate,telugu,hate_speech,dev
+te_dev_00202,Kutha simpi para debgav,1,hate,telugu,hate_speech,dev
+te_dev_00203,మీ ఇద్దరి తెలివి కలుపుతె కూడా ఆయన తెలివిలొ వెయ్యొబాగమ్ కూదలేదు. ఆయనను కామెంట్ చేసి అర్హత లేదు.,1,hate,telugu,hate_speech,dev
+te_dev_00204,Kutta chinchi para dengutaam,1,hate,telugu,hate_speech,dev
+te_dev_00205,kodali nani jagan sanka Baga nakeshadu,1,hate,telugu,hate_speech,dev
+te_dev_00206,Anna nv janasena lo join antha.... AP lo Next level untad,0,non-hate,telugu,hate_speech,dev
+te_dev_00207,Saami... Kadha kannaa venakaala nuvv cheppina vivarana baagundi..,0,non-hate,telugu,hate_speech,dev
+te_dev_00208,Rayalaseema simham paritala Ravi telugurashtrala devudu NTR but family members of both have utterly failed to carry the legacy of these both in their respective range and categories,1,hate,telugu,hate_speech,dev
+te_dev_00209,నచ్చేసావ్ శ్రీను అన్న... Love u bro జై మెగాస్టార్,0,non-hate,telugu,hate_speech,dev
+te_dev_00210,Ee gali gadu Ugipotunnadu.Cinma shooting anukunnademo.,1,hate,telugu,hate_speech,dev
+te_dev_00211,rey delete cheyi lawde,1,hate,telugu,hate_speech,dev
+te_dev_00212,Ee vaakhyam RRR lo Ram Charan jail scene dheggara vaadaru.,0,non-hate,telugu,hate_speech,dev
+te_dev_00213,Em manishulu ra miru bhimbisara manchi movie petukoni...e movie evaru chustaru ra nag,1,hate,telugu,hate_speech,dev
+te_dev_00214,"దేనిని కందించి దేశం మొత్తమ్ అత్యవసర విధిచాలి, ఒక గొప్ప వార్త ప్రసారం చేసిన టీవీ10 కి గోల్డెన్ గ్లోబ్ అవార్డు ఇవ్వాలి",0,non-hate,telugu,hate_speech,dev
+te_dev_00215,నువ్వు కాదయ్యా హీరో నీ యనకాల ఉంది చూడు పులి సోను సూద్ సార్,0,non-hate,telugu,hate_speech,dev
+te_dev_00216,మంచి నటులు బ్రహ్మాజీ గారు..,1,hate,telugu,hate_speech,dev
+te_dev_00217,Nirmala sitaraman garini ala anadam tappu,0,non-hate,telugu,hate_speech,dev
+te_dev_00218,Amma correct Ga cheppaavu mi koduku antha donga ippudaina nammu talli,1,hate,telugu,hate_speech,dev
+te_dev_00219,"Krishnarao garu 2007 episode marichipoyara, viveka resighnation kcr bypole time enduku e dabba kaburulu",1,hate,telugu,hate_speech,dev
+te_dev_00220,Yadava Veshalu taginchukunte Baguntadi,1,hate,telugu,hate_speech,dev
+te_dev_00221,Okkasari chance ivvandi Chala manchi manishi CM Kavali Jai Janasena,0,non-hate,telugu,hate_speech,dev
+te_dev_00222,Akka niku ekkuva inda endi...mata sariga ratle,1,hate,telugu,hate_speech,dev
+te_dev_00223,Director skill mida Prati pakodi gaadu comment cheyadamey comments lo judge laaga,1,hate,telugu,hate_speech,dev
+te_dev_00224,Jagartha antunadu andham antunadu akka antunnadu ento veedu em ardham kavadam ledhu em antunado ardham kavadam ledhu antha confusing ga vundhi!,0,non-hate,telugu,hate_speech,dev
+te_dev_00225,Full Entertainment ayindhi.. Revanth reddy maryadaga matladina thittinatte undhi.. Superooo super,0,non-hate,telugu,hate_speech,dev
+te_dev_00226,సార్ మీరు 100% కరెక్ట్ చెప్పారు సార్ కాకపోతే ఇండ్ల 100% తప్పు అంటే గవర్నమెంట్ ది ఎందుకంటే అతనికి పర్మిషన్ ఇయ్యడం తప్పు పని ముందు తెలంగాణలో పర్మిషన్ ఈయకూడదు పర్మిషన్ ఇచ్చే చాలా తప్పు పని చేశాడు ఇన్ని గొడవలకు గవర్నమెంట్ మూల కారణం,0,non-hate,telugu,hate_speech,dev
+te_dev_00227,bjp malli ade double game maatladutondi....amaravathi meeda,1,hate,telugu,hate_speech,dev
+te_dev_00228,itlantivi cheppi hostels lo undevallani Inka cheda dobbandi,1,hate,telugu,hate_speech,dev
+te_dev_00229,అసలు ఏం ఉంది రా అక్కడ పొట్ట ఒకటి ఉంది అక్కడ,0,non-hate,telugu,hate_speech,dev
+te_dev_00230,దండాలయ్యా దండలయ్యా మాతోనే నువ్వు ఉండాలయ్య.,0,non-hate,telugu,hate_speech,dev
+te_dev_00231,Bro vaadi height entha bro.... sampu kante comedy ga vunadu ...,1,hate,telugu,hate_speech,dev
+te_dev_00232,మంత్రికి మైండ్ బ్లాంక్ అయ్యింది ... ఆదారాలతో అడ్డంగా దొరికారు ... సానుభూతి కోసం దొంగ ఏడుపులు ఏడుస్తున్నారు ... ఛీ ఎం చేసుకుంటారు అంత అడ్డంగా సంపాదించి... కొంచెం మంచి పనులు చేయండి సారూ.,0,non-hate,telugu,hate_speech,dev
+te_dev_00233,Ayyo rama idhenna dance adhuku mela keerthi ya paaka mudiala. Looks weird,1,hate,telugu,hate_speech,dev
+te_dev_00234,ఆదర్శమైన పొలిటికల్ లీడర్ అయితే రాజకీయ సన్యాసం తీసుకుంటనని చెప్పారు. ఏమైంది,0,non-hate,telugu,hate_speech,dev
+te_dev_00235,Aslu em show lu ra mei west gaa me vala socity Agam patisunaru chatha gaa,1,hate,telugu,hate_speech,dev
+te_dev_00236,"Bokka spritual, ela champukkunnte years baby",1,hate,telugu,hate_speech,dev
+te_dev_00237,Naa drustilo pspk garu Devudu,0,non-hate,telugu,hate_speech,dev
+te_dev_00238,ఎందరో మహాను బావులు వుంటారు వాళ్లు ఊరికెనే ఉండరు,0,non-hate,telugu,hate_speech,dev
+te_dev_00239,కేసీఆర్ కేబినెట్లో మీటింగ్ లేదు బొచ్చు లేదు,1,hate,telugu,hate_speech,dev
+te_dev_00240,Konni love stories lo love express cheyyataniki muddu pettukovalsina avasaram undadu.,0,non-hate,telugu,hate_speech,dev
+te_dev_00241,"Over confidant ithe alage untadi,,,, super ga cheppi silent chesinav Suma akka,,,",1,hate,telugu,hate_speech,dev
+te_dev_00242,ఉద్యోగం జాగర్త! నువ్వంటే పడకపోతే మీ ఆఫీసర్ సస్పెండ్ చేస్తడు!,1,hate,telugu,hate_speech,dev
+te_dev_00243,Media devolop అయ్యాక ప్రతి అమ్మాయి హీరోయిన్ అని అనుకొని చేసే performance trolls కి బాగా ఉపయగపడుతున్నాయి.. ఇన్ని క్లిప్పింగ్స్ కలెక్ట్ చేసి ఒక similar video చేయడం great.,0,non-hate,telugu,hate_speech,dev
+te_dev_00244,time waste sir jagan cheyalenidi meeru ela chestaru devudu kadu kada ap problem cheyavaddu,0,non-hate,telugu,hate_speech,dev
+te_dev_00245,అన్నయ్య మనం రోడ్డుపై వెల్తుంటే కుక్క లు మెరుగు తుంది,1,hate,telugu,hate_speech,dev
+te_dev_00246,వీడు ప్రసారానికి వెళ్ళ డాంటే ఆడవాళ్ళు కూడా చెప్పులు తీసి కొడతారు,1,hate,telugu,hate_speech,dev
+te_dev_00247,Nu thopu director anna,0,non-hate,telugu,hate_speech,dev
+te_dev_00248,అబ్బాయిలకు షాక్ ఇచ్చేవారు వుంటారు.ఇప్పుడు అమ్మాయి కే షాక్ ఇచ్చాడు,0,non-hate,telugu,hate_speech,dev
+te_dev_00249,Village piilla super,0,non-hate,telugu,hate_speech,dev
+te_dev_00250,"As he is a Hindu, he's fighting against all such stupidism, and it's no where relevant to crossing party line",0,non-hate,telugu,hate_speech,dev
+te_dev_00251,He has more talking power Aina daivajanulato anta easy kadu mari,0,non-hate,telugu,hate_speech,dev
+te_dev_00252,నాది శ్రీకాకులం జిల్లా.. కానీ రఘు అన్న వాగ్దాటికి అభిమానిని.. సంపూర్ణ మైన అవగాహన కలిగిన నాయకుడు..,0,non-hate,telugu,hate_speech,dev
+te_dev_00253,Nikhil ni support chyyandi manchi manchi scripts meeda work chstnnaru,0,non-hate,telugu,hate_speech,dev
+te_dev_00254,గరికపాటి గారు బాగా చెప్పారు ...చెడును హైలెట్ చేయడం ద్వార యువత త్వరగా ఫాలో అయి వారు సమాజం చెడువి గురవుతున్నది,0,non-hate,telugu,hate_speech,dev
+te_dev_00255,ఆవిడ మంత్రి అయ్యాక పిచ్చి ముదిరి ఎక్స్ట్రా జబర్దస్త్ అరుపులు అరుస్తుంది. పట్టించుకోవద్దు.,1,hate,telugu,hate_speech,dev
+te_dev_00256,Nijamga aadu annada.....veedu kurchoni sollu dhobbuthunnadu.....,1,hate,telugu,hate_speech,dev
+te_dev_00257,Love story muddulu kadu sannivesam site ranam lo scenes lo love chala baga chupicharu movie,0,non-hate,telugu,hate_speech,dev
+te_dev_00258,Devudu manishi kanna goppa,0,non-hate,telugu,hate_speech,dev
+te_dev_00259,Pora neeeeeee nekanna pedha vunmadhi vuntara ambati,1,hate,telugu,hate_speech,dev
+te_dev_00260,రోజ నువ్వూ ఆ ఇకలు పికడనికి తప్పా దేనికి పనికిరావు,1,hate,telugu,hate_speech,dev
+te_dev_00261,అన్నయ్య పేరు వింటే గూస్ బమ్స్ వస్తాయ్,0,non-hate,telugu,hate_speech,dev
+te_dev_00262,కొడుకులకు దిమ్మ తిరిగి బొమ్మ కనపడ్డది. సూపర్ అన్న,0,non-hate,telugu,hate_speech,dev
+te_dev_00263,"రోజా ఆంటీ కి బాగా తెలుసు జలగ మొన రెడ్డి కి వెంట్రుకలు ఎక్కడ, ఎక్కడ ఉన్నాయో",1,hate,telugu,hate_speech,dev
+te_dev_00264,"భారత దేశంలో గౌరవించే నటుడు అవుతాడు జై మనోజ్ అన్న, rrr మూవీ మించి కలెక్షన్లు వసూలు చేస్తుంది",0,non-hate,telugu,hate_speech,dev
+te_dev_00265,ఈ అమ్మాయి సిగ్గు లేకుండా ఇంకా కావరింగ్ ఒకటి,1,hate,telugu,hate_speech,dev
+te_dev_00266,ఈ అరాచకాలు ఆపగలిగే దృక్పథం ఉన్న నాయకుడు. కేవలం పవన్ కళ్యాణ్ గారు మాత్రమే.,0,non-hate,telugu,hate_speech,dev
+te_dev_00267,"Yes anna.ramcharn great ,meetharvatha RC okkade",0,non-hate,telugu,hate_speech,dev
+te_dev_00268,ఈడో పిచ్చి తుగ్లక్ ఏది పడితే అది వాగుతాడు.అన్ని పేలతాయ్ అనుకుంటాడు.కానీ ఇప్పుడు పేల లేదు,1,hate,telugu,hate_speech,dev
+te_dev_00269,Exposing dose penchhite offer lu vasaty,1,hate,telugu,hate_speech,dev
+te_dev_00270,Dhini gudha pandhulu kukkalu gulliyya,1,hate,telugu,hate_speech,dev
+te_dev_00271,అన్నో మనకి కూడా ఒక మిషన్ అడుగు. కొట్టుకుందాం,0,non-hate,telugu,hate_speech,dev
+te_dev_00272,chandra babu oka donga na koduku ap ni naisham chesthadhu,1,hate,telugu,hate_speech,dev
+te_dev_00273,"RK garu... Mee questioning bagundhi. But CM ni or Central Minister ni adagalsina questions aduguthunnaru. Overall it's a very good discussion. My Vakheel Saab thopu, ayana maata muchata vignaanam chaala superb. Way to go my MLA",0,non-hate,telugu,hate_speech,dev
+te_dev_00274,Bandi breaks goranga tisadu ...... Super,0,non-hate,telugu,hate_speech,dev
+te_dev_00275,Ippudu unna vedavalaku yemi telusu anna chiru.,1,hate,telugu,hate_speech,dev
+te_dev_00276,Gudha loo kotaka malli interview okatii,1,hate,telugu,hate_speech,dev
+te_dev_00277,Dinikanna sigguchetu inkoti oundadhu mery ma cm anni telangana pattina peedha,1,hate,telugu,hate_speech,dev
+te_dev_00278,ఎందుకు ఇద్దరు బెడ్ రూం కి పోండి మొత్తం విప్పేసి చూడు బాగుంటది,1,hate,telugu,hate_speech,dev
+te_dev_00279,sonam kapoor ni rape nadhi road o vadhileyala,1,hate,telugu,hate_speech,dev
+te_dev_00280,Ennisarlu chusina chudalanipinche great scene idi,0,non-hate,telugu,hate_speech,dev
+te_dev_00281,అందరూ కష్టపడతారు.. వాళ్లు తినడానికి ఉండడానికి సరిపోతుంది.. కష్టం పేరు చెప్పు నీలాగా దుర్మార్గాలు చేసే వాళ్లే పైకి వస్తారు,1,hate,telugu,hate_speech,dev
+te_dev_00282,హీరోయిన్ vere vallani తీసుకుంటే baagundedhi,0,non-hate,telugu,hate_speech,dev
+te_dev_00283,తల్లి తండ్రుల పెంపకం అలా ఉండాలి హాయ్ నమస్తే అంటూ ఎంతో బాగుంది,0,non-hate,telugu,hate_speech,dev
+te_dev_00284,Over acting ఎక్కువైంది తగ్గించుకుంటే మంచిది,1,hate,telugu,hate_speech,dev
+te_dev_00285,ఇలాంటి వీడియోస్ పెట్టి మా పరువు తీయకండి,1,hate,telugu,hate_speech,dev
+te_dev_00286,గుద్ధుర గట్టిగ...,1,hate,telugu,hate_speech,dev
+te_dev_00287,సూపర్ అన్న నీ వీడియోస్ నీ మాటలు అంటే నాకు చాలా ఇష్టం అందుకే నీ ఛానల్ సబ్స్క్రైబ్,0,non-hate,telugu,hate_speech,dev
+te_dev_00288,Rai అతను ఉద్యోగం correct గా చేస్తున్నాడు ఎందుకు ర నాయకులు అందురు కలిసి నిందలు వేస్తారు... నిజాయితీ పని చేస్తే ఎవరికీ నచ్చదు..ఛీ,1,hate,telugu,hate_speech,dev
+te_dev_00289,direct Red light area nunchi vaccharu anukunta....thu thu,1,hate,telugu,hate_speech,dev
+te_dev_00290,Pila nibha star vijgay overkonda guddakonda,1,hate,telugu,hate_speech,dev
+te_dev_00291,"RK గారు మీకు, మీ టీం కి దన్యవాదాలు, సుతి మెత్తగా ప్రశ్నలు వర్ణించారు అహంకారికి ...అహంకారం కాస్త తగ్గినట్లు అనిపిస్తొంది",0,non-hate,telugu,hate_speech,dev
+te_dev_00292,"ఈ దిబ్బ మొహం దాన్ని దూరం నుంచి చేస్తేనే షాక్ అవతరు,",1,hate,telugu,hate_speech,dev
+te_dev_00293,మామ..ఎప్పుడూ gun రెఢీ గా ఉంచుతాడు..,0,non-hate,telugu,hate_speech,dev
+te_dev_00294,జఫ్ఫా తిమింగలం 420 గాడికి RiP ఎప్పుడు చెపుతారు,1,hate,telugu,hate_speech,dev
+te_dev_00295,విశ్వక్ మంచి పని చేశారు. Tv 9పిచ్చికి మంచి గుణపాఠం.. చెప్పారు,0,non-hate,telugu,hate_speech,dev
+te_dev_00296,"మంచు కుటుంబం తెలుగు ప్రజకి దేవుడు ఇచ్చిన గొప్ప వరం. తప్పదు, భరించాల్సిందే0",0,non-hate,telugu,hate_speech,dev
+te_dev_00297,సరిగ్గా చూడండీ అక్కడ విగ్గురాజు ఉన్నాడు అబ్బా…,0,non-hate,telugu,hate_speech,dev
+te_dev_00298,"Miru miru okkatey, madyalo fans ey suffer avuthaaru",1,hate,telugu,hate_speech,dev
+te_dev_00299,I am bachelor anna ..oil ..petrol..chusthe bayam ga undi,0,non-hate,telugu,hate_speech,dev
+te_dev_00300,ANJI MAMA AND SATHI ANNA COMBINATION ADHIRINDI,0,non-hate,telugu,hate_speech,dev
+te_dev_00301,"బొంగులే,, గవర్నమెంట్ వెనకాల ఉంటే వంద చెప్పొచ్చు.",1,hate,telugu,hate_speech,dev
+te_dev_00302,Match chudaniki vasthunam ani cheppu bro,0,non-hate,telugu,hate_speech,dev
+te_dev_00303,Atlunttadhi palanadu thitlantte sarrigga deggutam,1,hate,telugu,hate_speech,dev
+te_dev_00304,సూపర్ సార్ చాలా సంతోషం ఆయన గురించి మాట్లాడినందుకు ఒక మంచి వ్యక్తి రావు గోపాల్ రావు గారు,0,non-hate,telugu,hate_speech,dev
+te_dev_00305,ఏర్రిపప్పా అవ్వడం కోసమే పుట్టిందే tv 9,1,hate,telugu,hate_speech,dev
+te_dev_00306,sorry bro maku antha adrustam ledu,0,non-hate,telugu,hate_speech,dev
+te_dev_00307,వీడియో చూడంగానే కామెంట్స్ కోసం వచినవాలు ఒక లికె వేసుకోండి,0,non-hate,telugu,hate_speech,dev
+te_dev_00308,u don't worry bro aa kalyani ki dhula Patti idhantha chesthundhi,1,hate,telugu,hate_speech,dev
+te_dev_00309,అధికారం కోసం తల్లిని చెల్లి ని కూడా వాడుకొని వదిలేసాడు జగ్గన్న ఇంకా మనం ఎంత గొర్రెలం కాదా మనం,1,hate,telugu,hate_speech,dev
+te_dev_00310,Nattu gaadu tappu maatladi vundachu Nuvvu peekindhi em ledhu Andaru nomination chesina vaadi valla vachesam antaaru Kaani votes vesedhi audience Idhem logic naaku artham kaaledhu Nuvvu Ashu limits cross chesi maatladaru house lo Adhe inko magadu mimmalni ante pativrathalla pose Em ladies raa swamy,1,hate,telugu,hate_speech,dev
+te_dev_00311,Vadapav gaadu icc trophy elaa win aiythadoo neenu chusthaa,1,hate,telugu,hate_speech,dev
+te_dev_00312,Hii Bagunnara Harsha Sai garu meku. Mee team members ki happy vinayaka chavithi,0,non-hate,telugu,hate_speech,dev
+te_dev_00313,సూపర్ గా పాడారు...మీతో ఈ పాట ఐటమ్ సాంగ్ చేస్తే అదిరిపోను,0,non-hate,telugu,hate_speech,dev
+te_dev_00314,Kcr na madda chesindu rs,1,hate,telugu,hate_speech,dev
+te_dev_00315,ఆపు రా డ్రామా రావు అన్ని సొల్లు కబుర్లు,1,hate,telugu,hate_speech,dev
+te_dev_00316,Em Tesukovali na Bokkala padda innerwear tappa. time Bokkalo show,1,hate,telugu,hate_speech,dev
+te_dev_00317,Suma gurinchi evvaru cheppanakkarledu . Tanante maaku Chala istam.,0,non-hate,telugu,hate_speech,dev
+te_dev_00318,Aa teskelli railway station counter lo padeyandi,1,hate,telugu,hate_speech,dev
+te_dev_00319,Adhikaram vunte thuglak gadu emaina chesasthadu,1,hate,telugu,hate_speech,dev
+te_dev_00320,Kadupuki annam thintunnavaa biryani thintunnavaaa........what a comedy dialogue......really super,0,non-hate,telugu,hate_speech,dev
+te_dev_00321,"Mustache kosam wait chesi untadu,inni rojulu ee video cheyadaniki,enthaina ne dedication ki hats off bro",0,non-hate,telugu,hate_speech,dev
+te_dev_00322,సూపర్ రా చిన్న,0,non-hate,telugu,hate_speech,dev
+te_dev_00323,అరేయ్ బాబు నీ న్యూస్ మొత్తం TRS పార్టీకి అనుకూలంగా ఉన్నది...,0,non-hate,telugu,hate_speech,dev
+te_dev_00324,ఇటువంటి కథలు పడ్తానే ధిక్కు లేకుండా పోయింది,0,non-hate,telugu,hate_speech,dev
+te_dev_00325,Ilanti MLA Anni niyojaka vargallo enduku leru!!!,0,non-hate,telugu,hate_speech,dev
+te_dev_00326,Saami... Kadha kannaa venakaala nuvv cheppina vivarana baagundi…,0,non-hate,telugu,hate_speech,dev
+te_dev_00327,అవి కెమెరా ముందు అరిచే అరుపులు కాదు .,1,hate,telugu,hate_speech,dev
+te_dev_00328,ఈయన గారు ఏమి మాట్లాడతాడో తెలియదు,0,non-hate,telugu,hate_speech,dev
+te_dev_00329,Waste gadu Natraj is very bad behaviour,1,hate,telugu,hate_speech,dev
+te_dev_00330,బాలయ్య బాబు అభిమానిని ఈ సినిమా పెద్ద ఇటు కొట్టాలని మనస్పూర్తిగా కోరుకుంటున్నాను జై బాలయ్య జై చిరంజీవ,0,non-hate,telugu,hate_speech,dev
+te_dev_00331,సిగ్గు సరం వున్న వాళ్ళు ఎవరు వీడి సినిమాలకు పొకడదు ..... ఏంట్రా ఆ బాషా ...,1,hate,telugu,hate_speech,dev
+te_dev_00332,Jayaho Janasainiks. Oka lakadi gadi gurinchi time waste chesukovaddu. Prajalu chepputho kotte rojulu daggaralo unnayi,1,hate,telugu,hate_speech,dev
+te_dev_00333,చాలా అదృష్టవంతుడు. మంచి వారికి అలానే చావు వస్తుందేమో,0,non-hate,telugu,hate_speech,dev
+te_dev_00334,లెజెండ్ రాజగోపాల్ రెడ్డి కల్ముషం లేని వ్యక్తి చాలా సింపుల్ మనిషి,0,non-hate,telugu,hate_speech,dev
+te_dev_00335,మీరు ఆ స్థాయిలో ఉండి కూడా మీ స్నేహితుని పరిచయం చేయడం ఆనందకరం,0,non-hate,telugu,hate_speech,dev
+te_dev_00336,ee movie theatre lo chudakapote tarwata mere feel avutaru.. Excellent movie,0,non-hate,telugu,hate_speech,dev
+te_dev_00337,Ne expressions gudda ni dengaa ne patalu gudda ni denga,1,hate,telugu,hate_speech,dev
+te_dev_00338,Adhi Show na lanjala kompana,1,hate,telugu,hate_speech,dev
+te_dev_00339,"ఆపరా.... నువ్వు ఒక అమ్మాయి తో నీచంగా వ్యవహరించి, వెనక నుంచి గట్టిగా పట్టుకుందా మనుకున్నా అని నీ character lose చేసుకున్నావ్... ఎవడెం చేస్తాడు?",1,hate,telugu,hate_speech,dev
+te_dev_00340,ఊహ గారు.కూతురు చాలా పద్దతిగా ఉన్నారు.సూపర్,0,non-hate,telugu,hate_speech,dev
+te_dev_00341,పక్కోడి మీద ఉండే ఇంట్రెస్ట్ లో సగం మనం చేయాల్సిన పని మీద ఉంటే చాలా బాగుంటుంది,1,hate,telugu,hate_speech,dev
+te_dev_00342,Verry pappa akhil,1,hate,telugu,hate_speech,dev
+te_dev_00343,Valla dhagara bochu vunttundi,1,hate,telugu,hate_speech,dev
+te_dev_00344,k t r kuda poyendu kadaa adigenavu lucha,1,hate,telugu,hate_speech,dev
+te_dev_00345,Sollu puka antha solluu....,1,hate,telugu,hate_speech,dev
+te_dev_00346,SheM gari manasu doche untadu goratla madhavudu; promotion confirm deputy SheM poste,1,hate,telugu,hate_speech,dev
+te_dev_00347,ఏందిరా ఇది యూట్యూబ్ అనుకున్నారా ఇంకేమన్నానా,1,hate,telugu,hate_speech,dev
+te_dev_00348,Manoj okkade odd man out in manchi family,1,hate,telugu,hate_speech,dev
+te_dev_00349,సినిమాలు చూసిన చూడకపోయినా నీ రివ్యూ మాత్రం పక్క మిస్ అవ్వకుండా చూస్తాం అన్నany way విశ్వక్ అన్న మూవీ రివ్యూ కోసం waiting,0,non-hate,telugu,hate_speech,dev
+te_dev_00350,Padavi kulaniki kaadhu sir.... Capability and charector unna manishiki..... Stop talking about caste,0,non-hate,telugu,hate_speech,dev
+te_dev_00351,malla manchi erri puku vodu,1,hate,telugu,hate_speech,dev
+te_dev_00352,e video chusina tarvata ilanti manchi manushulu untara ani chala santhosham anipinchindi,0,non-hate,telugu,hate_speech,dev
+te_dev_00353,Washing powder NIRMA neevu maa mukyamantri awadam maa KARRMA,1,hate,telugu,hate_speech,dev
+te_dev_00354,"మూర్తి గారు మీకు ఉన్నబాధ అందరికీ అర్థమయ్యేతే బాగుండును,",0,non-hate,telugu,hate_speech,dev
+te_dev_00355,యశోద మూవీ చాలా బాగా ఉంది,0,non-hate,telugu,hate_speech,dev
+te_dev_00356,Mere brathukulu inthey eka. Nasanayam aaipotai,1,hate,telugu,hate_speech,dev
+te_dev_00357,tdp lokesh valla modda kudisi poyindhi,1,hate,telugu,hate_speech,dev
+te_dev_00358,Arey sollu comedy apandraaaa,1,hate,telugu,hate_speech,dev
+te_dev_00359,క్షవరం అయితే గానీ వివరం తెలియదు లెండి.... పృధ్వీ గారు,0,non-hate,telugu,hate_speech,dev
+te_dev_00360,"Prathi daniki Government tappu vundadu prajalu koncham marali, attitude change ayithey ilanti jaragavu",0,non-hate,telugu,hate_speech,dev
+te_dev_00361,మొటిమలకు మందు పని చేస్తున్నట్టు ఉందిగా,0,non-hate,telugu,hate_speech,dev
+te_dev_00362,ఈ వీడియో తరువాత నేను నుకు పెద్ద అభిమాని అయ్యాను బ్రో సుపుర్,0,non-hate,telugu,hate_speech,dev
+te_dev_00363,ఫస్ట్ నీతులు చెప్పావు కదా డబ్బు వద్దని ఇప్పుడు ఎందుకు తీసుకోమంటున్నావ్..,1,hate,telugu,hate_speech,dev
+te_dev_00364,ఎంత మంది కళ్ళల్లో నీళ్ళు తిరిగాయి,0,non-hate,telugu,hate_speech,dev
+te_dev_00365,ఫిరోజీ ఖాన్ కొడితే కేజీ కిందకు దిగుద్ది మీరు ఎన్ని సార్లు మా దేవుళ్ళు ని అన్నారు... నువ్వు కొట్టేదేందీ మేము కొట్టలేమామీరు చెప్తున్నారు... మేము చెప్పటం లేదు అంతే దెబ్బకి దెబ్బ పడుద్ది అంతే,1,hate,telugu,hate_speech,dev
+te_dev_00366,India ki enno match lu Gelipinchadu,0,non-hate,telugu,hate_speech,dev
+te_dev_00367,Ledhu daddy meere important ani Cinema loki vachestha,0,non-hate,telugu,hate_speech,dev
+te_dev_00368,మంచి ఆన్సర్ ఇచ్చారు బ్రో,0,non-hate,telugu,hate_speech,dev
+te_dev_00369,munawar moosi nadhi ayina nooru valla enni godavalu #deport munwar to afghan or syria,1,hate,telugu,hate_speech,dev
+te_dev_00370,First nee party pokunda chusko next,0,non-hate,telugu,hate_speech,dev
+te_dev_00371,Yadhava ni yadhava laage treat chesthaaaru,1,hate,telugu,hate_speech,dev
+te_dev_00372,శంకర్ రావు జర ని భాష ఏంది బై ఏం మాట్లాడుతున్నావ్ నీ కెమన్న జర్నలిజం విలువలు తెలుసా ఎంతిట్టుడు అది మార్చు భాష,0,non-hate,telugu,hate_speech,dev
+te_dev_00373,Son of india ticket booking records ni baddalu kottaalani asisthunnanu,0,non-hate,telugu,hate_speech,dev
+te_dev_00374,Sati ni interviews chuse vallu ipudu evaru leri,1,hate,telugu,hate_speech,dev
+te_dev_00375,Kavya చాలా అమాయకురాలు.,0,non-hate,telugu,hate_speech,dev
+te_dev_00376,Entha mandhi bjp lo join aina kuda bjp TS govt form cheyyaledhu..,1,hate,telugu,hate_speech,dev
+te_dev_00377,Orei ep nayala evadu pay chesindu neeku? Politicians ankunda veela meedha paddav,1,hate,telugu,hate_speech,dev
+te_dev_00378,Sir మీరు ఎవరితో అయిన పెట్టుకోండి కానీ..యోగి గారి తో వద్దు,0,non-hate,telugu,hate_speech,dev
+te_dev_00379,సంయుక్త గారి యక్కటింగ్ సూపర్ సినిమా సూపర్,0,non-hate,telugu,hate_speech,dev
+te_dev_00380,Super tammudu,0,non-hate,telugu,hate_speech,dev
+te_dev_00381,Cut paste... video cut aaeindhi,0,non-hate,telugu,hate_speech,dev
+te_dev_00382,​debate la lo paalgone TRS naayakulaku edhutivaarini maatladaneeyakapovadam samskaaram kaadhu.,0,non-hate,telugu,hate_speech,dev
+te_dev_00383,Jyosham kana nenu ni mida penchukuna prema goppadi Super,0,non-hate,telugu,hate_speech,dev
+te_dev_00384,అబద్ధానికి పెద్ద నోరు ఉంటుంది,1,hate,telugu,hate_speech,dev
+te_dev_00385,delete cheii raa koja,1,hate,telugu,hate_speech,dev
+te_dev_00386,Mamuluga undadu anna ne entry brooooo,0,non-hate,telugu,hate_speech,dev
+te_dev_00387,Antha fake ey solu galu baga ekuva ayaru,1,hate,telugu,hate_speech,dev
+te_dev_00388,ఇలాంటి సినిమాలను ఆదరించిన ప్రేక్షకులకు. ధన్యవాదాలు చెప్పాలి మంచి మూవీ ని ఇచ్చిన. కళ్యాన్ రామ్ వశిష్ట. చిత్రం బృందానికి ధన్యవాదాలు ఇండస్ట్రీ కి. మంచి. హిట్. మూవీ,0,non-hate,telugu,hate_speech,dev
+te_dev_00389,"ఈ సాంగ్ ఎంత మందికి మళ్ళీ మళ్ళీ వినాలనిపిస్తుంది..ప్రభాస్, పుాజా హెగ్దే.. Love Scenes really Awesome.. Cuteness Overload",0,non-hate,telugu,hate_speech,dev
+te_dev_00390,ముందుగా ప్రజలు మారాలి చట్టాలను కాపాడుకోవాలి స్వతంత్రంగా మన ఓటు మనం నిజాయితీగా వేసుకుంటే చాలు,0,non-hate,telugu,hate_speech,dev
+te_dev_00391,ఫైనల్ ఇంగ్లాండ్ గెలవాలి ఆల్ ది బెస్ట్ ఇంగ్లాండ్ టీమ్ 2022 ఇంగ్లాండ్ విన్నర్,0,non-hate,telugu,hate_speech,dev
+te_dev_00392,Ippudu nuvvu cheppindi yem pikutanani news chesataru,1,hate,telugu,hate_speech,dev
+te_dev_00393,Annaaa telugu communication baanee improve cheshav,0,non-hate,telugu,hate_speech,dev
+te_dev_00394,Pichi hospital lo join avara ayomayam,1,hate,telugu,hate_speech,dev
+te_dev_00395,Ap ప్రజలు పెంట తింటున్నారు కాబట్టి ఇలాంటి నాయకులని భరిస్తున్నారు.,1,hate,telugu,hate_speech,dev
+te_dev_00396,"unde money tho manchi mirror konukunivunte, intha money loss chesundevadika",1,hate,telugu,hate_speech,dev
+te_dev_00397,"Boggemi kadhu, vedu vidi dramalu",1,hate,telugu,hate_speech,dev
+te_dev_00398,From recent 3 months iam addicted to your videos anna. Your way of explaining and slang is very nice,0,non-hate,telugu,hate_speech,dev
+te_dev_00399,"మెట్టు theskoni kottandi, okka jobs ledu, devlopmet ledu, asalu డబ్బులు veyydam votes kosam pedda scam idi",1,hate,telugu,hate_speech,dev
+te_dev_00400,Chala manchi Pani chesaru,0,non-hate,telugu,hate_speech,dev
+te_dev_00401,ఒరేయ్ టాప్ టీవీ ఓడ bsp పెట్టలేదు ఉచ్చ పడుతుందా,1,hate,telugu,hate_speech,dev
+te_dev_00402,ఈ పాట ఎంత మందికి ఇష్టం...,0,non-hate,telugu,hate_speech,dev
+te_dev_00403,Raju sir meeru Indian Army sir meeru.,0,non-hate,telugu,hate_speech,dev
+te_dev_00404,అన్నయ్య అనే పిలుపు విని వెనక్కి తిరిగాడు,0,non-hate,telugu,hate_speech,dev
+te_dev_00405,"Me ఇద్దరు వల్ల ఏపీ లో ఆడవాళ్ళ పరువు పోయింది, పదవి కోసం ఎంతకైనా దిగజారే బ్రతుకులు మీవి",1,hate,telugu,hate_speech,dev
+te_dev_00406,లాస్ట్ లో సాంగ్ ఎంత మంది మిస్ అయ్యారు బ్రో,0,non-hate,telugu,hate_speech,dev
+te_dev_00407,Nuv dancer va chiii sigguledhu Neku,1,hate,telugu,hate_speech,dev
+te_dev_00408,Adi aunty na leka gay na,1,hate,telugu,hate_speech,dev
+te_dev_00409,I'm Full RAM CHARAN fan... & Ee Song keka... Mobile lo audio 50 time's vinna... Movie Blockbuster... CONGRATULATIONS... Kalyan Ram Anna...,0,non-hate,telugu,hate_speech,dev
+te_dev_00410,Pulihora raja gadu.. appudu choosina ladies tho pulihora kaluputhu untadi.. niku vere pani leda .. anni overaction video lu chestadu ..,1,hate,telugu,hate_speech,dev
+te_dev_00411,rhea dabbu kosam mosali mahesh bhatt modda chickindhi,1,hate,telugu,hate_speech,dev
+te_dev_00412,Bandi oka vest fellow,1,hate,telugu,hate_speech,dev
+te_dev_00413,పని తక్కువ బిల్డప్ ఎక్కువ,1,hate,telugu,hate_speech,dev
+te_dev_00414,"Super ga vundhi drama commen people ni sir ani kuda antara o my god, this is team work guys.",0,non-hate,telugu,hate_speech,dev
+te_dev_00415,టెక్నాలజీ పెరిగిన కొద్ది సెఫ్టి తగ్గుతుంది. హెకర్స్ సులభంగా దోచుకుంటున్నారు,0,non-hate,telugu,hate_speech,dev
+te_dev_00416,Village ammayi super,0,non-hate,telugu,hate_speech,dev
+te_dev_00417,నూతన సంవత్సర శుభాకాంక్షలు సూపర్ ఈవెంట్ సుధీర్ అండ్ రష్మీ డాన్స్ సూపర్ Iam wathing సంక్రాంతి ఈవెంట్,0,non-hate,telugu,hate_speech,dev
+te_dev_00418,​navuthunava potti noodles chalu ra e janmaki,0,non-hate,telugu,hate_speech,dev
+te_dev_00419,Inthamandi abhmaninchali ante entha adrushtam chesuko undali,0,non-hate,telugu,hate_speech,dev
+te_dev_00420,Super bro ne channel 1stime chustunna super video e content meda akkuva videos chey bro channel no1 avutundi,0,non-hate,telugu,hate_speech,dev
+te_dev_00421,"ఆ తల్లి మాటల్లో ఎంత అర్ధము వుందో, అంతే ఆవేదన కూడా వుంది. ఆ కుటుంబానికి అంతా మంచి జరగాలి.",0,non-hate,telugu,hate_speech,dev
+te_dev_00422,"Enti villu ee cinema ni oka bahubali, kgf kante ekkuva uhinchukuntunattu unnaru..papam.. picchi vedava",0,non-hate,telugu,hate_speech,dev
+te_dev_00423,"జగన్ చాలా తక్కువ తింటాడు, డబ్బులు మాత్రం చాలా ఎక్కువ తింటాడు",1,hate,telugu,hate_speech,dev
+te_dev_00424,"ఈ వీడియో RGV కోసమే చాలా మంది చూసి వుంటారు,,",0,non-hate,telugu,hate_speech,dev
+te_dev_00425,Manalli yavadu ra apeddi,0,non-hate,telugu,hate_speech,dev
+te_dev_00426,మీరు నిండు నూరేళ్లు చల్లగా ఉండాలని కోరుకుంటూ హ్యాపీ మ్యారేజ్ లైఫ్,0,non-hate,telugu,hate_speech,dev
+te_dev_00427,300 mandhi hindus ni champina modi malla vadu oka pm,0,non-hate,telugu,hate_speech,dev
+te_dev_00428,మాతృ భాష తెలుగు అంటే అంత లోకువా పక్క రాష్ట్రాల వాళ్ళు వారి మాతృ భాష కి ఎంత గౌరవం ఇచ్చు కుంటారో చూసి నేర్చుకోండి,0,non-hate,telugu,hate_speech,dev
+te_dev_00429,Vedu maradu,1,hate,telugu,hate_speech,dev
+te_dev_00430,చాలా పద్దతి గా ఉన్నారు,0,non-hate,telugu,hate_speech,dev
+te_dev_00431,Peekinav teei,1,hate,telugu,hate_speech,dev
+te_dev_00432,దేవీ దేవతలను కూడా అన్నప్పుడు రియాక్ట్ ఎందుకు కాలేదు ఖాన్? ఎందుకు దేవుళ్లను ఇలా కించపరుచుకుంటున్నారు!,0,non-hate,telugu,hate_speech,dev
+te_dev_00433,చాలా యూట్యూబ్ చానల్లలో మీరు చెప్పిన గరికపాటి వారి అభిప్రాయం ప్రచారమౌతున్నది. వాటి కింద కామెంటులను సినిమా రంగం వారు చదివితే ప్రజాభిప్రాయం తెలుస్తోంది. ఏమైనా అనుకోని అనుకుంటే ఒకనాడు వారి భార్యాపిల్లలపై అదే ప్రభావం పడవచ్చు. చివరగా బుధ్ధి చెబుతుంది…,0,non-hate,telugu,hate_speech,dev
+te_dev_00434,First telangana gurunchi edvu jai bjp,0,non-hate,telugu,hate_speech,dev
+te_dev_00435,Bass jaani sir nuvvu e song ki cheyyaka pothe waste e song,1,hate,telugu,hate_speech,dev
+te_dev_00436,ఆగష్టు 14th చూసా ఈ మూవీ మౌత్ పబ్లిసిటీ చేస్తున్న అద్భుతం గా ఉంది జై శ్రీ కృష్ణ,0,non-hate,telugu,hate_speech,dev
+te_dev_00437,ఇలాంటి వెదవ పనులు మానండి,1,hate,telugu,hate_speech,dev
+te_dev_00438,mammalni eppatnundo motivate chesthune untunnav bro..baguntav..maa andhari aasisulu theesukuni chala baguntav,0,non-hate,telugu,hate_speech,dev
+te_dev_00439,Arey cheppu tho kodatha,1,hate,telugu,hate_speech,dev
+te_dev_00440,Hema kuturu chala chala baguntadi chala suma show lo chusanu,0,non-hate,telugu,hate_speech,dev
+te_dev_00441,Bahusa father and son antey ilagey vundalemo... Great father and Good Son...,0,non-hate,telugu,hate_speech,dev
+te_dev_00442,Kohli lekapote gelvaru ra sullli galllaraa...,1,hate,telugu,hate_speech,dev
+te_dev_00443,Anna nuvvu chavaku యిది చాలా అన్యయం.suspense అదిరిపోయింది.next episode వేగంగా pettanna.,1,hate,telugu,hate_speech,dev
+te_dev_00444,ఇటువంటి తీర్పులు ఇలాంటి వాళ్లే చెప్పగలరు నమ్మిన TV యజమానులుకు ధన్యవాదాలు,1,hate,telugu,hate_speech,dev
+te_dev_00445,sitharaman oka sudda pappun siggu ledhu asla mms valla india ela atani economic policy valle india 3 trillion economy ayindhi,1,hate,telugu,hate_speech,dev
+te_dev_00446,Janabha.peregutunaru.vupadhe.udhyogalu.karuve.vundhe.,0,non-hate,telugu,hate_speech,dev
+te_dev_00447,సార్ సజ్జనర్ సార్ మీరు ఎక్కడ ఉన్నారు పోలీసులు డబ్బున్న రాజకీయ నాయకుల కొడుకులను ఎన్కౌంటర్ చేస్తే రాష్ట్ర ప్రజలు ఫ్రెండ్లీ పోలీసులను చూడాలనుకుంటున్నారు,0,non-hate,telugu,hate_speech,dev
+te_dev_00448,Votes vesi gelipinchukoni...Visham Taaguthunnaru ap people,1,hate,telugu,hate_speech,dev
+te_dev_00449,ఈ web series మీద case వేద్దాం...ఎంది ఆ మాటలు..,1,hate,telugu,hate_speech,dev
+te_dev_00450,"RIP . Sunaayesena Maranam, chaala Goppa vyakthi and even Abdul Kalam Died in the same way.",0,non-hate,telugu,hate_speech,dev
+te_dev_00451,Anduke film dobbindii,1,hate,telugu,hate_speech,dev
+te_dev_00452,Telangana ki manchi rojulu vasthunai...,0,non-hate,telugu,hate_speech,dev
+te_dev_00453,To be frankly host kante chay chaala humble ga react ayyaru ... really love his nature,0,non-hate,telugu,hate_speech,dev
+te_dev_00454,Nag sir la natural ga evaru matlada leru...nag sir super,0,non-hate,telugu,hate_speech,dev
+te_dev_00455,RK gaaru pedda kulagajji gaaru,1,hate,telugu,hate_speech,dev
+te_dev_00456,"Director di super comedy,childish behaviour,when he said wrong answer,question ardam avaledu, ani",0,non-hate,telugu,hate_speech,dev
+te_dev_00457,సూపర్ బంగారం అమ్మా,0,non-hate,telugu,hate_speech,dev
+te_dev_00458,కామానికి కళ్ళు లేవు ....,1,hate,telugu,hate_speech,dev
+te_dev_00459,అన్నా నువ్వు షేర్ అన్నా.... నీకూ మంచి రోజులూ అతి త్వరలో వస్తాయి.,0,non-hate,telugu,hate_speech,dev
+te_dev_00460,ప్రభాస్ గారు అనుష్క గారు మీరు తొందరగా పెళ్లి చేసుకోండి,0,non-hate,telugu,hate_speech,dev
+te_dev_00461,Torch lite Kuda Leni rojula fake news vadu kavalane chesind,1,hate,telugu,hate_speech,dev
+te_dev_00462,జై జనసేన జై పవన్కళ్యాణ్ జై జనసేన,0,non-hate,telugu,hate_speech,dev
+te_dev_00463,మీరు చెప్పే ప్రతి విషంలోనూ ఒక విలువైన అర్ధం ఉంటుంది బయ్యా . నేను హిందువుని అయినా ఇంతవరకు పవిత్ర భగవత్ గీత చదవలేదు కానీ మీరు చెప్పే ప్రతి విషయం పవిత్ర భగవత్ గీత ఆధారంగా చెపుతుంటే చదవాలనిపస్తుంది.,0,non-hate,telugu,hate_speech,dev
+te_dev_00464,బెడ్రూమ్ లో ఇద్దరు ఏందోఉంది,1,hate,telugu,hate_speech,dev
+te_dev_00465,అప్పుడు ఎవడ్రా వీడు అన్నవాళ్లంతా ఇప్పుడు క్లాప్స్ కొడుతున్నారు నువ్వు సూపర్ బ్రో అనంతపురం హరీష్,0,non-hate,telugu,hate_speech,dev
+te_dev_00466,Etuvanti interviews kadhaa manaki kavalsinavi,0,non-hate,telugu,hate_speech,dev
+te_dev_00467,"One of the Great Leader, A Big Salute Sir.,,",0,non-hate,telugu,hate_speech,dev
+te_dev_00468,Dhil raju manchi cinemal ki alaane chesthaadu. Last time krack movie ki alaa chesaadu. Appudu Krack yegisi yegisi thannindhi. Eppudu karthikeya2 dhorlinchi dhorlinchi thannuthundhi. So anni musukoni manchi movies ni encourage cheyyi...,1,hate,telugu,hate_speech,dev
+te_dev_00469,"ప్రజలు తప్పకుండా మంచి చెడు గ్రహించి, చదువుకున్నవారు ఇట్లాంటి విషయాలు తెలియని వాళ్ళకి తెలియచేసి రాబోయే రోజుల్లో విజ్ఞతతో ఓట్ వేసి ప్రజాస్వామ్యం ని కాపాడాలి అని మనవి…",0,non-hate,telugu,hate_speech,dev
+te_dev_00470,Dance show erripuku chesesaru kadhara comedy zabardast lo cheyandi d lo dance cheyandi erripuku director erripuku editing,1,hate,telugu,hate_speech,dev
+te_dev_00471,Veedevado grahanthara vasi kappa la vunnadu,1,hate,telugu,hate_speech,dev
+te_dev_00472,సూపర్ అన్న జై పవన్ కళ్యాణ్ జై జనసేన నెక్స్ట్ సీఎం పవన్ కళ్యాణ్ గారే,0,non-hate,telugu,hate_speech,dev
+te_dev_00473,అన్న ఈ వీడియో మమ్మల్ని చాలా ఎంటర్టైన్ చేసింది కానీ కొత్త వాళ్ళని సపోర్ట్ చేయండి అన్న ఫస్ట్ మూవీ లో అల్లు అర్జున్ ఎలా ఉన్నాడో మనకి తెలుసు ఇప్పుడు పుష్ప లో ఎలా ఉన్నాడో మనకి తెలుసు ఎందుకు అలా అన్న అర్ధం చేసుకోండి.,0,non-hate,telugu,hate_speech,dev
+te_dev_00474,"RK గారు, సగం మీరే మాట్లాడేస్తున్నారు, దయచేసి అవతలివాళ్ళని పూర్తి గా మాట్లాడనీయండి.",0,non-hate,telugu,hate_speech,dev
+te_dev_00475,కొంచం ఘాటుగా వ్యాఖ్యానించారు...... కానీ నిజం అదే కదా…,0,non-hate,telugu,hate_speech,dev
+te_dev_00476,Babhu నువ్వు movie rilease కాకుండా చెప్పే అబద్ధం కన్నా అతను చేసే సాయం గొప్పది. Nuv పెద్ద prad,1,hate,telugu,hate_speech,dev
+te_dev_00477,ఈ లాంటి కష్టమైన పనులకు ప్రభుత్వం గుర్తించి వారికి ఎంతో కొంత పెన్షన్ మంజూరు చేయాలి,0,non-hate,telugu,hate_speech,dev
+te_dev_00478,Ami chasarante uday kiran ni champaru vedi nepotism valla,1,hate,telugu,hate_speech,dev
+te_dev_00479,ఈ సారి ప్రతి ఒక్కరూ జనసేన కి మీ విలువైన ఓటు వేయండి,0,non-hate,telugu,hate_speech,dev
+te_dev_00480,liger debbadi konda anna gudda mooskoni vunnaru,1,hate,telugu,hate_speech,dev
+te_dev_00481,Permit room lu enduku pettirru Thaginanka oka beer tho aguthara,1,hate,telugu,hate_speech,dev
+te_dev_00482,ఇలాంటి వీడియోస్ కి మనం లైక్ వేసి ఇంకా వాళ్ళని ప్రోత్సహిస్తుంది ఫస్ట్ వీడియోకి లైక్ చేయడం మానేయండి,1,hate,telugu,hate_speech,dev
+te_dev_00483,Bagunnavu chai and pallavi,0,non-hate,telugu,hate_speech,dev
+te_dev_00484,ysrcp emo jagan drainage lo kalisi poyindhi jagan vadu vadi drainge face,1,hate,telugu,hate_speech,dev
+te_dev_00485,జగన్ పరువు మోడీ పరువు కాదు అక్కడ పోయింది విపక్షాల పరువు ఆ మూర్ఖులకు ఇంకా అర్థం అవ్వట్లేదు,1,hate,telugu,hate_speech,dev
+te_dev_00486,ఇక్కడ కామెడీ ఎక్కడ ఉంది రా బాబు......... మీ over action మీరు.......,1,hate,telugu,hate_speech,dev
+te_dev_00487,Puri raasina dialogues mahesh chepthea excellent ga set avthai,0,non-hate,telugu,hate_speech,dev
+te_dev_00488,Sanyasi ante yevaro anukunna e korja gada,1,hate,telugu,hate_speech,dev
+te_dev_00489,KTR matladedi kanisam ardam chesukune brain leni vallu kuda ktr anadame. Next election ki same place nunchi Poti chesi deposit techukunte chalu.,1,hate,telugu,hate_speech,dev
+te_dev_00490,ఆది రాజకియం ఇది వ్యక్తిగతం,1,hate,telugu,hate_speech,dev
+te_dev_00491,తమ్ముడు రష్మీ కూడా నీ పాట కు ప్రాణం పోసింది,0,non-hate,telugu,hate_speech,dev
+te_dev_00492,"నచ్చావురా, నిజాన్ని నిర్భయంగా, బాహాటంగా చెప్పగలిగిన నీ వ్యక్తిత్వానికి",0,non-hate,telugu,hate_speech,dev
+te_dev_00493,కూటి కోసం కోటి విద్యలు,0,non-hate,telugu,hate_speech,dev
+te_dev_00494,యెవరు పూనిత రాజు గారు దూరం అయ్యారు అన్న వద్దు మనం జీవిస్తున్నం అంటే అయిన మన మధ్య జీవిస్తూ ఉన్నారు ప్లీజ్ యెవరు అలా అనవద్దు,0,non-hate,telugu,hate_speech,dev
+te_dev_00495,I love you rakul dhairam ga undu,0,non-hate,telugu,hate_speech,dev
+te_dev_00496,"ర్మ కోసం చూసాను ,మొదటిసారి అతను ఒక హీరో అభిమాని ఎలా ఉల్లాసంగా స్టేజి పై మాట్లాడుతారో అలా అనిపించారు",0,non-hate,telugu,hate_speech,dev
+te_dev_00497,ఇదొక్కటే నిజంగా మనస్సులో నుండి వచ్చిన మాట బాబు గారికి..,0,non-hate,telugu,hate_speech,dev
+te_dev_00498,Mahabharatam lo sakhuni mama famous mana Andhra bharatam lo jagan mama famous..,1,hate,telugu,hate_speech,dev
+te_dev_00499,Sadist gadu ruling,1,hate,telugu,hate_speech,dev
+te_dev_00500,Arey howle Nizamabad MP Pasupu bord Edhi be Nv esukunna Angi lagu kudha Cangress icchindhe and TELANGANA icchindhi kuda Cangress A meeru cheppe Digital India lo ni AAdhar card kuda Cangress tecchindhe,1,hate,telugu,hate_speech,dev
+te_dev_00501,Pichola gurinchi vinadame gane direct ga epudu e video lo chustuna ...,0,non-hate,telugu,hate_speech,dev
+te_dev_00502,మల్లారెడ్డి అంతడబ్బు రేవంత్ రెడ్డికి ఇచ్చారు అంటే... మల్లారెడ్డి ఎన్ని వేల కోట్ల డబ్బు అవినీతిగా సంపాదించి ఉంటాడు... సక్రమంగా సంపదిస్తే ఎవ్వరికి ఇవ్వనవసరం ఉండదుగా.... రేవంత్ ఒక్కడికె కాదు..ప్రజలందరికీ నీ అవినీతి డబ్బు పంచాలి.. అప్పుడు ఎవ్వడు బ్లాక్ మెల్ చేయడు.,0,non-hate,telugu,hate_speech,dev
+te_dev_00503,డబ్బా రాయుడు మన పెద రాయుడు మొత్తం మీద మేక పోతు గాంభీర్యం కనపర్చాడు ఫసక్,0,non-hate,telugu,hate_speech,dev
+te_dev_00504,ఇందులో ఒక్క నిజం ఉంది... లైఫ్ సాఫీగా జరిగేవాళ్ళు బయట పాడారు.. ఎందుకు అంటే వాళ్లకి అవకాశాలు ఉన్నాయి కాబట్టి..,0,non-hate,telugu,hate_speech,dev
+te_dev_00505,ఆడియో ఫంక్షన్ సూపర్ కామెడీ సూపర్ సూపర్ సూపర్,0,non-hate,telugu,hate_speech,dev
+te_dev_00506,కొరియన్ సినిమా హీరోయిన్,0,non-hate,telugu,hate_speech,dev
+te_dev_00507,ఎంతైనా మెగా ఫ్యామిలీ గ్రేట్ ఫ్యామిలీ. వాళ్ళని ఎవరైనా గౌరవించాల్సిందే,0,non-hate,telugu,hate_speech,dev
+te_dev_00508,రామకృష్ణ గారు బాదపడకండి జగన్ గారు మీకు మంచి భవిష్యత్తు ఉంటుంది,0,non-hate,telugu,hate_speech,dev
+te_dev_00509,జగన్ & కో కులం మతం ప్రాంతాల మధ్య చిచ్చు పెట్టి చలిమంట కాచుకొనే దండుపాళ్యం బాచ్,1,hate,telugu,hate_speech,dev
+te_dev_00510,ఇన్ని రోజులు ఏదో మూలాన సందేహం ఉండే పాల్ గారు పిచ్చోడా అని కానీ ఇప్పుడు కన్ఫర్మ్ అయింది నాకు,1,hate,telugu,hate_speech,dev
+te_dev_00511,Clear ga explain chestaru chala manchiga artham avuthundi,0,non-hate,telugu,hate_speech,dev
+te_dev_00512,Oreyy babu inni rojulu prasantham ga unnam nu malli vachava chii neee edhava,1,hate,telugu,hate_speech,dev
+te_dev_00513,Nibba reels cheyaku bro,1,hate,telugu,hate_speech,dev
+te_dev_00514,వాడు చదవలేదు అని అర్థం అవుతుంది,0,non-hate,telugu,hate_speech,dev
+te_dev_00515,E bogada aadi gadu unte show sanka nakinatte,1,hate,telugu,hate_speech,dev
+te_dev_00516,మేకప్ లోనే ఇలా ఉందంటే మేకప్ లేకుండా ఎలా ఉంటుంది,1,hate,telugu,hate_speech,dev
+te_dev_00517,టెక్నికల్ ప్రాబ్లo అని సింపుల్ గా తేల్చాసారు .,0,non-hate,telugu,hate_speech,dev
+te_dev_00518,Panikimalina,1,hate,telugu,hate_speech,dev
+te_dev_00519,"Sudheer garu na presna pedha pedha star la ke ,e, bild up undadhu nuv chala chestunav Nee kanna get up srinu baga chestaru Srinu annake big screen ki face ki correct bagutundhi",1,hate,telugu,hate_speech,dev
+te_dev_00520,ఊహ గారు మీ అమ్మాయి మీ లాగే ఉంటుంది,0,non-hate,telugu,hate_speech,dev
+te_dev_00521,bro delete cheyakapothey ma fans ninnu degenutharu,1,hate,telugu,hate_speech,dev
+te_dev_00522,నటనలో నరసింహుడు అవతల వాళ్ళని గౌరవించడం లొ మహాదేవుడు,0,non-hate,telugu,hate_speech,dev
+te_dev_00523,Ha bokkaley ...... Chivaridaka vuntey appudu cheppu,1,hate,telugu,hate_speech,dev
+te_dev_00524,అది ఎప్పుడు అర్థం అవుతుందో ఈ పావలా గాళ్ళకి,0,non-hate,telugu,hate_speech,dev
+te_dev_00525,Deepak Kalal Increasing His Haters In To A Fan Day By Day,0,non-hate,telugu,hate_speech,dev
+te_dev_00526,ఇంద్రజ గారి ఫాన్స్ ప్రోమోలో ఇంద్రజ గారు సూపర్బ్ టైమింగ్,0,non-hate,telugu,hate_speech,dev
+te_dev_00527,ఒకరికి జీవితం ఇవ్వడం అన్నిటికన్నా ఎంతో గొప్ప విషయం..... Tq bandla ganesh garu,0,non-hate,telugu,hate_speech,dev
+te_dev_00528,మనుషుల్లో నల్లగా ఉన్న వారిని ముద్దుగా నల బంగారం అని పిలుస్తారుఅంతేగాని ఎర్ర బంగారం అని ఎక్కడ పిలిచిన దాఖలాలు లేవ,0,non-hate,telugu,hate_speech,dev
+te_dev_00529,Ardham padham Lenivi endhuku thistharu chi mi Brathuku chada,1,hate,telugu,hate_speech,dev
+te_dev_00530,Evaru vunauru akada super,0,non-hate,telugu,hate_speech,dev
+te_dev_00531,"karthikeya masth cheppinddu, sudheer miru jabardasth ki belong avvaru,dhee ki belong avvaru, ma audience ki belong avutaru",0,non-hate,telugu,hate_speech,dev
+te_dev_00532,ఇప్పటి వరకు వచ్చారు తిట్టారు పోయారు ఒకడన్న రాష్ట్రానికి ఎం చేస్తామో చెప్పరా?,1,hate,telugu,hate_speech,dev
+te_dev_00533,Arey Devudi Dabbulu ra avi vati gurinchi nduku ra asha kakapothay….devudu dabbu devudikay…dani kuda too much chestru meru,0,non-hate,telugu,hate_speech,dev
+te_dev_00534,నిజంగా మీరు హీరోయిన్ లా ఉన్నారు,0,non-hate,telugu,hate_speech,dev
+te_dev_00535,Intentionally geliki emina serious ite news chedamani...,1,hate,telugu,hate_speech,dev
+te_dev_00536,సినిమా చాలా బాగుంది నేను చూశాను,0,non-hate,telugu,hate_speech,dev
+te_dev_00537,"Dear, ETV Variki , Dear, Gnapika Entertainment's Variki , Dear, Ali Gariki , Sir, Adivi Sesh Gariki , Madam, Saiee Manjrekar Gariki",0,non-hate,telugu,hate_speech,dev
+te_dev_00538,Mee chatha face llu Mee kullu comedy tu,1,hate,telugu,hate_speech,dev
+te_dev_00539,Fake లు ఎందుకు చూడటం..Original చూపిస్తాను అంటునాడు పోయి దర్శనం చేసుకొని పాప విముక్తి పొందండి,1,hate,telugu,hate_speech,dev
+te_dev_00540,ఎక్కడికి పోతోంది మన సంస్కృతి,0,non-hate,telugu,hate_speech,dev
+te_dev_00541,నవ్వు చాలు చూపిస్తున్నారు,1,hate,telugu,hate_speech,dev
+te_dev_00542,Megastar antey adi. Em expression ra babu...Comedy....action.....dialogues.....Dance ayithey ika cheppoddu...,0,non-hate,telugu,hate_speech,dev
+te_dev_00543,సన్యాసం తీసుకో తమ్ముడు,1,hate,telugu,hate_speech,dev
+te_dev_00544,"Aa yedawa, daddamma yewadoo kaadu mohan babu",1,hate,telugu,hate_speech,dev
+te_dev_00545,చాలా బాగుంది రాహుల్ గాంధీ,0,non-hate,telugu,hate_speech,dev
+te_dev_00546,40 సంవత్సరాలు రాజకీయ అనుభవం,0,non-hate,telugu,hate_speech,dev
+te_dev_00547,Monal Enduku niku antha over action ha,1,hate,telugu,hate_speech,dev
+te_dev_00548,Goppa goppollu ...AP nundi parliament ki vellaru...maa Telangana chala better...anna Maa Telangana lo dikkumalina video samskruthi Inka rale...,1,hate,telugu,hate_speech,dev
+te_dev_00549,Arey ni bondha ra chetha na kodaka,1,hate,telugu,hate_speech,dev
+te_dev_00550,మీ లాంటి కార్పొరేట్ సినిమా వాళ్ళుకి ఇలాంటి భగవత్గీత లాంటివి అనవసరం,1,hate,telugu,hate_speech,dev
+te_dev_00551,అబ్బ అబ్బ ఎం యాక్టింగ్ సూపర్ సినిమా లో నటిస్తే ఆస్కార్ గ్యారంటీ,1,hate,telugu,hate_speech,dev
+te_dev_00552,Cinema ku title ku samndham ledhu average,0,non-hate,telugu,hate_speech,dev
+te_dev_00553,Tv9 ki dula thirchestadu rgv,1,hate,telugu,hate_speech,dev
+te_dev_00554,మేడమ్ మీలాంటి వారు ఈ సొసైటీకి కావాలి.,0,non-hate,telugu,hate_speech,dev
+te_dev_00555,donga Malli gani gurinchi oka vedio cheyandi,0,non-hate,telugu,hate_speech,dev
+te_dev_00556,chillar party lu Anne okkatyna modi ji ni next pm modi ji yogi baba ni,1,hate,telugu,hate_speech,dev
+te_dev_00557,ఈ వయసులోనే ఇలా ఉన్నారు అంటే ఆరోజుల్లో ఎన్ని పొలాలు దున్నారో,0,non-hate,telugu,hate_speech,dev
+te_dev_00558,"సార్ మీ తండ్రి కొడుకుల పాత్రలు చాలా సూపర్ గా ఉంటాయి సార్, నాకు కూడా ఇద్దరు కొడుకులు వాళ్లతో ఎప్పుడు ఇలాగే కామెడీగానే ఉంటాను",0,non-hate,telugu,hate_speech,dev
+te_dev_00559,మా నాన్నగారి సైట్ నాకు వచ్చింది అందుకని నాకు ఏమి కనిపించదు అన్నయ్య,0,non-hate,telugu,hate_speech,dev
+te_dev_00560,సిద్దార్థ్ రెడ్డి గారి మాట్లాడే విధానం నాకు చాలా ఇష్టం,0,non-hate,telugu,hate_speech,dev
+te_dev_00561,Enti bhaya ala shock ichav ammaikudu la unde vadivi,0,non-hate,telugu,hate_speech,dev
+te_dev_00562,Nuvvo moddaganivi andhuke aapesnav,1,hate,telugu,hate_speech,dev
+te_dev_00563,దానంలో కర్ణుడికి కజిన్ లా... నటనలో కమలహాసన్ ను మించిపోయేలా,0,non-hate,telugu,hate_speech,dev
+te_dev_00564,కొంతమంది కా ఉద్యోగం కూడా లేదు,0,non-hate,telugu,hate_speech,dev
+te_dev_00565,Deenemmaa dabbulu unte darinapoye danaya tho cinema tiyyachu ani telisindi,1,hate,telugu,hate_speech,dev
+te_dev_00566,నువ్ హీరో అవతావు అన్న అంత స్టయిల్ వుంది నిలో ఇది రియల్ మాట,0,non-hate,telugu,hate_speech,dev
+te_dev_00567,ఇది రెడ్ లైట్ ఏరియాలోది అనుకుంటా,1,hate,telugu,hate_speech,dev
+te_dev_00568,అసలు మాట్లాడకే రాదు నికి ఎంపీ పదవి ఎలా ఇచ్చారో,1,hate,telugu,hate_speech,dev
+te_dev_00569,Modda gudu aithyy,1,hate,telugu,hate_speech,dev
+te_dev_00570,Peetha … idokA Lavada lo buildup,1,hate,telugu,hate_speech,dev
+te_dev_00571,Twitter tillu gabi banisa,0,non-hate,telugu,hate_speech,dev
+te_dev_00572,వాడికి ఎంత కుల పిచ్చి అంటే jr ntr ni దేశమంతా ప్రచారానికి బీజేపీ ఉపయోగిస్తుంది ఆట.,1,hate,telugu,hate_speech,dev
+te_dev_00573,​mana alochana. mana mundhu unna tarala bavisathu mana mida adhara padi undhi,0,non-hate,telugu,hate_speech,dev
+te_dev_00574,bjp ki siggu saram lanja paruvu emi ledhu,1,hate,telugu,hate_speech,dev
+te_dev_00575,నువ్వు ఏం అన్న కష్టం చేసి కొన్నాధా మా సొమ్మేగా ప్రజలది.,0,non-hate,telugu,hate_speech,dev
+te_dev_00576,kl rahul ipl baga adutavu india ki moda laga adutavu preity tho night out ha enti,1,hate,telugu,hate_speech,dev
+te_dev_00577,కావాలి జగన్ రావాలి జగన్ అని ఓ ఏసారుగా ఓట్లు... దింపుతున్నాడ ప్రతి రోజూ బాగా?,0,non-hate,telugu,hate_speech,dev
+te_dev_00578,దానినే హుందాతనం అంటారు,1,hate,telugu,hate_speech,dev
+te_dev_00579,oka ammai vi ayundhi illu clean chesthunavu ani complain chesthava siggu techuko,1,hate,telugu,hate_speech,dev
+te_dev_00580,ఆ పాప సాహసం గొప్పదే.. కానీ ఆ soldier ఓపిక కూడా గొప్పదే....,0,non-hate,telugu,hate_speech,dev
+te_dev_00581,Fake news News line,0,non-hate,telugu,hate_speech,dev
+te_dev_00582,Lakshalu lakshalu fees lu dengina,1,hate,telugu,hate_speech,dev
+te_dev_00583,jagan ki alane gudda lo rod dimpali public,1,hate,telugu,hate_speech,dev
+te_dev_00584,"Chi chi neeku anchoring evadu nerponchondo....farmers ni arrest chesinaru ante...safety ki antava,intha dikkumaalina answer emina vuntada asalu,ante anyayam jarigindi Ani chepte arrest lu chestaru,ala arrest cheyyadam correct antava nv",1,hate,telugu,hate_speech,dev
+te_dev_00585,Lanja laga show lo vunnadhi ani commen scence kuda ledhu,1,hate,telugu,hate_speech,dev
+te_dev_00586,చిరుత looks adhurs,0,non-hate,telugu,hate_speech,dev
+te_dev_00587,మంగ్లీ మేడం గొంతులో ఏ పాటైనా అత్యంత మధురం ఎంత ఎంజాయ్ చేస్తూ పాడుతుందో.,0,non-hate,telugu,hate_speech,dev
+te_dev_00588,రైతుల పంటకు డిమాండ్ పెరిగితే... మధ్యతరగతి మనిషి..ఎలా బతుకుతాడు...RGV నువ్వంటే రిచ్ కదా.. ఇందుకే దేశానికి రైతు వెన్నుముక and ఎప్పటికీ పేదొడు,1,hate,telugu,hate_speech,dev
+te_dev_00589,Sontha Peru meda registration chey leka piyadu,1,hate,telugu,hate_speech,dev
+te_dev_00590,Correct bro vadu langa road meedha ammukuntaru,1,hate,telugu,hate_speech,dev

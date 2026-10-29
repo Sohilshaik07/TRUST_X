@@ -1,0 +1,4 @@
+model,balanced_twi,performance_heavy_twi,robustness_heavy_twi,calibration_heavy_twi
+mBERT,0.7378,0.7322,0.7924,0.7778
+IndicBERT,0.7156,0.7053,0.775,0.7589
+XLM-R,0.7634,0.7574,0.7977,0.793

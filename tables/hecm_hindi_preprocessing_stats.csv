@@ -1,0 +1,6 @@
+dataset_version,samples,unique_texts,min_chars,max_chars,mean_chars,median_chars,min_words,max_words,mean_words,median_words,p95_words
+raw_hecm,9357,9239,5,744,147.58,131.0,1,89,24.46,21.0,54.0
+cleaned_hecm_full,9214,9214,5,744,148.18,132.0,1,89,24.59,21.0,54.0
+hecm_train,6449,6449,5,677,149.32,134.0,1,83,24.84,21.0,54.0
+hecm_dev,1382,1382,5,744,144.42,126.5,1,89,23.77,20.0,52.0
+hecm_test,1383,1383,11,461,146.64,129.0,3,73,24.25,21.0,53.0

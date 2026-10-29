@@ -1,0 +1,10 @@
+language,split,total_samples,non_harmful_0,harmful_1,harmful_pct
+telugu,train,2758,1422,1336,48.44
+telugu,dev,591,305,286,48.39
+telugu,test,592,305,287,48.48
+tamil,train,33431,25206,8225,24.6
+tamil,dev,4216,3193,1023,24.26
+tamil,test,4232,3190,1042,24.62
+malayalam,train,10802,10372,430,3.98
+malayalam,dev,1836,1779,57,3.1
+malayalam,test,1844,1765,79,4.28

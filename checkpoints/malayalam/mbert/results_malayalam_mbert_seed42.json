@@ -1,0 +1,202 @@
+{
+    "experiment_id": "malayalam_mbert_seed42",
+    "language": "malayalam",
+    "model": "mbert",
+    "checkpoint": "bert-base-multilingual-cased",
+    "seed": 42,
+    "epochs": 3,
+    "batch_size": 16,
+    "learning_rate": 2e-05,
+    "max_length": 128,
+    "train_duration_sec": 372.4077572822571,
+    "best_val_f1": 0.4921161825726141,
+    "test_performance": {
+        "accuracy": 0.9571583514099783,
+        "precision_macro": 0.47857917570498915,
+        "recall_macro": 0.5,
+        "f1_macro": 0.4890551399279579,
+        "f1_class_0": 0.9781102798559158,
+        "f1_class_1": 0.0,
+        "precision_class_0": 0.9571583514099783,
+        "precision_class_1": 0.0,
+        "recall_class_0": 1.0,
+        "recall_class_1": 0.0,
+        "confusion_matrix": [
+            [
+                1765,
+                0
+            ],
+            [
+                79,
+                0
+            ]
+        ]
+    },
+    "calibration": {
+        "ece": 0.06269534872824611,
+        "brier": 0.044933553652349356,
+        "normalized_calibration_score": 0.9237187719835276,
+        "bins": [
+            {
+                "bin": 0,
+                "bin_lower": 0.0,
+                "bin_upper": 0.1,
+                "count": 0,
+                "accuracy": 0.0,
+                "confidence": 0.05,
+                "gap": 0.0
+            },
+            {
+                "bin": 1,
+                "bin_lower": 0.1,
+                "bin_upper": 0.2,
+                "count": 0,
+                "accuracy": 0.0,
+                "confidence": 0.15000000000000002,
+                "gap": 0.0
+            },
+            {
+                "bin": 2,
+                "bin_lower": 0.2,
+                "bin_upper": 0.30000000000000004,
+                "count": 0,
+                "accuracy": 0.0,
+                "confidence": 0.25,
+                "gap": 0.0
+            },
+            {
+                "bin": 3,
+                "bin_lower": 0.30000000000000004,
+                "bin_upper": 0.4,
+                "count": 0,
+                "accuracy": 0.0,
+                "confidence": 0.35000000000000003,
+                "gap": 0.0
+            },
+            {
+                "bin": 4,
+                "bin_lower": 0.4,
+                "bin_upper": 0.5,
+                "count": 0,
+                "accuracy": 0.0,
+                "confidence": 0.45,
+                "gap": 0.0
+            },
+            {
+                "bin": 5,
+                "bin_lower": 0.5,
+                "bin_upper": 0.6000000000000001,
+                "count": 0,
+                "accuracy": 0.0,
+                "confidence": 0.55,
+                "gap": 0.0
+            },
+            {
+                "bin": 6,
+                "bin_lower": 0.6000000000000001,
+                "bin_upper": 0.7000000000000001,
+                "count": 0,
+                "accuracy": 0.0,
+                "confidence": 0.6500000000000001,
+                "gap": 0.0
+            },
+            {
+                "bin": 7,
+                "bin_lower": 0.7000000000000001,
+                "bin_upper": 0.8,
+                "count": 0,
+                "accuracy": 0.0,
+                "confidence": 0.75,
+                "gap": 0.0
+            },
+            {
+                "bin": 8,
+                "bin_lower": 0.8,
+                "bin_upper": 0.9,
+                "count": 1844,
+                "accuracy": 0.9571583514099783,
+                "confidence": 0.8944630026817322,
+                "gap": 0.06269534872824611
+            },
+            {
+                "bin": 9,
+                "bin_lower": 0.9,
+                "bin_upper": 1.0,
+                "count": 0,
+                "accuracy": 0.0,
+                "confidence": 0.95,
+                "gap": 0.0
+            }
+        ]
+    },
+    "robustness": {
+        "clean_accuracy": 0.9571583514099783,
+        "clean_macro_f1": 0.4890551399279579,
+        "perturbation_results": {
+            "leet_substitution": {
+                "perturbed_accuracy": 0.9571583514099783,
+                "perturbed_macro_f1": 0.4890551399279579,
+                "f1_drop": 0.0,
+                "f1_retention": 0.9999999979552407,
+                "flip_rate": 0.0,
+                "mean_confidence_drop": -2.4108365323627368e-05
+            },
+            "char_deletion": {
+                "perturbed_accuracy": 0.9571583514099783,
+                "perturbed_macro_f1": 0.4890551399279579,
+                "f1_drop": 0.0,
+                "f1_retention": 0.9999999979552407,
+                "flip_rate": 0.0,
+                "mean_confidence_drop": 5.700227575289318e-06
+            },
+            "char_repetition": {
+                "perturbed_accuracy": 0.9571583514099783,
+                "perturbed_macro_f1": 0.4890551399279579,
+                "f1_drop": 0.0,
+                "f1_retention": 0.9999999979552407,
+                "flip_rate": 0.0,
+                "mean_confidence_drop": 1.57452577695949e-05
+            },
+            "punctuation_insertion": {
+                "perturbed_accuracy": 0.9571583514099783,
+                "perturbed_macro_f1": 0.4890551399279579,
+                "f1_drop": 0.0,
+                "f1_retention": 0.9999999979552407,
+                "flip_rate": 0.0,
+                "mean_confidence_drop": -4.0338705730391666e-05
+            },
+            "whitespace": {
+                "perturbed_accuracy": 0.9571583514099783,
+                "perturbed_macro_f1": 0.4890551399279579,
+                "f1_drop": 0.0,
+                "f1_retention": 0.9999999979552407,
+                "flip_rate": 0.0,
+                "mean_confidence_drop": 5.925232017034432e-06
+            },
+            "composite": {
+                "perturbed_accuracy": 0.9571583514099783,
+                "perturbed_macro_f1": 0.4890551399279579,
+                "f1_drop": 0.0,
+                "f1_retention": 0.9999999979552407,
+                "flip_rate": 0.0,
+                "mean_confidence_drop": -1.2454558600438759e-05
+            }
+        },
+        "overall_robustness_score": 0.9999999979552407,
+        "composite_flip_rate": 0.0
+    },
+    "normalized_robustness_score": 0.9999999987731445,
+    "explainability": {
+        "compactness_score": 0.4397767373234567
+    },
+    "twi": {
+        "balanced": 0.7131376620020217,
+        "sensitivity": {
+            "balanced": 0.7131,
+            "performance_heavy": 0.6491,
+            "robustness_heavy": 0.7985,
+            "calibration_heavy": 0.7795
+        }
+    },
+    "status": "COMPLETED"
+}

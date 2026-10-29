@@ -1,0 +1,32 @@
+metric,value,notes
+total_samples,9357,valid text+label pairs
+unique_texts,9239,
+exact_duplicate_text_excess_rows,118,rows beyond first occurrence
+exact_dup_text_label_pairs,93,same text AND same label
+conflicting_label_texts,25,same text different label
+blank_text_rows,0,
+blank_label_rows,0,
+label_0_count,2823,30.17%
+label_1_count,6534,69.83%
+imbalance_ratio_0_over_1,0.4321,minority/majority
+min_char_len,5,
+max_char_len,744,
+mean_char_len,147.58,
+median_char_len,131.0,
+min_word_count,1,whitespace-split
+max_word_count,89,whitespace-split
+mean_word_count,24.46,whitespace-split
+median_word_count,21.0,whitespace-split
+p95_word_count,54,whitespace-split
+texts_with_urls,1464,15.65%
+texts_with_mentions,6743,72.07% - @user patterns
+texts_with_hashtags,3128,33.43% - #tag patterns
+texts_with_emojis,1824,19.50% - Unicode emoji blocks
+texts_with_repeated_chars,1018,10.88% - 4+ consecutive same char
+texts_with_elongated_spellings,261,2.79% - 3+ consecutive same Latin letter
+devanagari_only_samples,22,0.24% - 0 Latin chars
+latin_only_samples,7815,83.52% - 0 Devanagari chars
+mixed_script_samples,1520,16.25% - both scripts present
+devanagari_heavy_samples,206,2.20% - more Dev than Latin
+latin_heavy_samples,9148,97.77% - more Latin than Dev
+neither_script_samples,0,0.00%

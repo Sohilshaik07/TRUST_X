@@ -1,0 +1,15 @@
+batch_size: 16
+data_dir: Data/processed/tamil
+epochs: 3
+experiment_id: tamil_indicbert_seed42
+gradient_accumulation_steps: 1
+language: tamil
+learning_rate: 2.0e-05
+max_length: 128
+model_key: indicbert
+output_dir: checkpoints/tamil/indicbert
+run_shap: true
+seed: 42
+task: offensive_language
+use_class_weights: true
+weight_decay: 0.01

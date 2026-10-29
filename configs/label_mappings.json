@@ -1,0 +1,38 @@
+{
+    "telugu": {
+        "task": "Hate Speech Detection",
+        "description": "Binary classification: 0 = non-hate, 1 = hate",
+        "mapping": {
+            "non-hate": 0,
+            "hate": 1
+        },
+        "excluded": []
+    },
+    "tamil": {
+        "task": "Offensive Language Detection",
+        "description": "Binary mapping: 0 = Not_offensive, 1 = Offensive (all subtypes). 'not-Tamil' is excluded.",
+        "mapping": {
+            "Not_offensive": 0,
+            "Offensive_Untargetede": 1,
+            "Offensive_Targeted_Insult_Group": 1,
+            "Offensive_Targeted_Insult_Individual": 1,
+            "Offensive_Targeted_Insult_Other": 1
+        },
+        "excluded": [
+            "not-Tamil"
+        ]
+    },
+    "malayalam": {
+        "task": "Offensive Language Detection",
+        "description": "Binary mapping: 0 = Not_offensive, 1 = Offensive (all subtypes). 'not-malayalam' is excluded.",
+        "mapping": {
+            "Not_offensive": 0,
+            "Offensive_Targeted_Insult_Individual": 1,
+            "Offensive_Untargetede": 1,
+            "Offensive_Targeted_Insult_Group": 1
+        },
+        "excluded": [
+            "not-malayalam"
+        ]
+    }
+}
